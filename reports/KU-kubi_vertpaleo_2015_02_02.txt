@@ -1,0 +1,149 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 153
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-15 ; Times: 7
+	Date: 2015-01-16 ; Times: 5
+	Date: 2015-01-18 ; Times: 11
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-23 ; Times: 5
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 3
+	Date: 2015-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "apataelurus" ; Times: 1
+	Query: "KU 90368" ; Times: 2
+	Query: "stateprovince:"Illinois" class:reptilia institutioncode:KU" ; Times: 1
+	Query: "catalognumber:12369 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:12405 institutioncode:KU" ; Times: 1
+	Query: "Pantolambda" ; Times: 1
+	Query: "class:mammalia catalognumber:45022" ; Times: 2
+	Query: "catalognumber:1184 institutioncode:KU" ; Times: 1
+	Query: "machairodus" ; Times: 1
+	Query: "catalognumber:83643 class:mammalia" ; Times: 2
+	Query: "felis concolor" ; Times: 1
+	Query: "catalognumber:1241 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:12368 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:536 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:13405 institutioncode:KU" ; Times: 2
+	Query: "Archaeopteryx" ; Times: 1
+	Query: "ku 86980" ; Times: 2
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "11941 ku" ; Times: 1
+	Query: "catalognumber:5752 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:12349 institutioncode:KU" ; Times: 2
+	Query: "anolis cuvieri" ; Times: 6
+	Query: "catalognumber:12400 institutioncode:KU" ; Times: 1
+	Query: "gopherus type:specimen fossil:1" ; Times: 2
+	Query: "catalognumber:10145 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:565 institutioncode:KU" ; Times: 1
+	Query: "Apataelurus" ; Times: 1
+	Query: "glyptodon" ; Times: 1
+	Query: "americanus south dakota AND (NOT North)" ; Times: 1
+	Query: "Captorhinus" ; Times: 1
+	Query: "30795" ; Times: 1
+	Query: "catalognumber:1307 institutioncode:KU" ; Times: 1
+	Query: "Glyptodontidae" ; Times: 1
+	Query: "catalognumber:12371 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:3783 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:17777 institutioncode:KU" ; Times: 1
+	Query: "hesperornis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 445 download events in this period)
+Total number of records downloaded: 1265 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 842
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 4
+	Date: 2015-01-04 ; Times: 5
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "stateprovince:"Illinois" class:amphibia institutioncode:KU" ; Times: 1
+	Query: "gopherus type:specimen fossil:1" ; Times: 1
+	Query: "Ctenomys" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 48
+Total number of records retrieved from searches: 548
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 1265
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 98
+Total number of records retrieved from searches: 701
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 12009
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
