@@ -1,0 +1,108 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 51
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-04 ; Times: 4
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-20 ; Times: 5
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 21677" ; Times: 2
+	Query: "Lepidosiren" ; Times: 2
+	Query: "KU 6662" ; Times: 2
+	Query: "catalognumber:21655 institutioncode:ku" ; Times: 2
+	Query: "blarina stateprovince:"kansas"" ; Times: 1
+	Query: "genus:tyrannosaurus" ; Times: 1
+	Query: "ku ortalis" ; Times: 2
+	Query: "KU 10003" ; Times: 1
+	Query: "KU 24347" ; Times: 1
+	Query: "genus:tyrannosaurus fossil:1" ; Times: 1
+	Query: "KU 135079" ; Times: 2
+	Query: "machairodus" ; Times: 1
+	Query: "KU 135080" ; Times: 2
+	Query: "lepidosiren" ; Times: 1
+	Query: "Glyptodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 326 download events in this period)
+Total number of records downloaded: 1088 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1048
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 4
+	Date: 2015-02-13 ; Times: 2
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "stateprovince:"texas" genus:gopherus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "country:"Peru"" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Odocoileus institutioncode:KU" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 70
+Total number of records retrieved from searches: 599
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 2353
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 120
+Total number of records retrieved from searches: 752
+Number of download events that retrieved data from the resource: 64
+Total number of records downloaded: 13097
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
