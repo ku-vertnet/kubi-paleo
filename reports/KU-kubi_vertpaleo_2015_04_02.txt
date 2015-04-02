@@ -1,0 +1,106 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 133
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-13 ; Times: 9
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-23 ; Times: 3
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 10
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-29 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:21655 institutioncode:KU" ; Times: 1
+	Query: "panthera fossil:1" ; Times: 1
+	Query: "catalognumber:3870 institutioncode:ku" ; Times: 1
+	Query: "KU 103220" ; Times: 1
+	Query: "Rana type:specimen AND (NOT preservedspecimen NOT preserved NOT fluid specimen)" ; Times: 1
+	Query: "KU 65372" ; Times: 1
+	Query: "KU 65375" ; Times: 1
+	Query: "KU 65374" ; Times: 1
+	Query: "KU 65395" ; Times: 1
+	Query: "KU 65379" ; Times: 1
+	Query: "KU 65393" ; Times: 1
+	Query: "catalognumber:134655 institutioncode:ku" ; Times: 1
+	Query: "pulsatrix institutioncode:ku" ; Times: 1
+	Query: "catalognumber:4998 institutioncode:ku" ; Times: 1
+	Query: "catalognumber:3871 institutioncode:ku" ; Times: 1
+	Query: "Ranidae AND (NOT preservedspecimen NOT fluid specimen NOT observation)" ; Times: 1
+	Query: "symbos" ; Times: 1
+	Query: "Pulsatrix institutioncode:KU" ; Times: 8
+	Query: "catalognumber:28909 institutioncode:KU" ; Times: 1
+	Query: "KU 65414" ; Times: 1
+	Query: "KU 97497" ; Times: 1
+	Query: "KU 65380" ; Times: 1
+	Query: "KU 65381" ; Times: 1
+	Query: "brontosaurus" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 298 download events in this period)
+Total number of records downloaded: 364 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 364
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ovis canadensis" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: ""Neotoma cinerea" institutioncode:ku" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 103
+Total number of records retrieved from searches: 732
+Number of download events that retrieved data from the resource: 54
+Total number of records downloaded: 2717
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 153
+Total number of records retrieved from searches: 885
+Number of download events that retrieved data from the resource: 73
+Total number of records downloaded: 13461
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
