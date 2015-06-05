@@ -1,0 +1,136 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-15 ; Times: 5
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 2
+	Date: 2015-05-27 ; Times: 7
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 3
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "catalognumber:110611 institutioncode:KU" ; Times: 2
+	Query: "thylacinus" ; Times: 1
+	Query: "Neochoerus pinckneyi" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: "KU 98629" ; Times: 3
+	Query: "94030" ; Times: 1
+	Query: "catalognumber:19410 institutioncode:KU" ; Times: 1
+	Query: "didelphis fossil:1" ; Times: 3
+	Query: "catalognumber:28793 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "pulsatrix" ; Times: 1
+	Query: "catalognumber:110610 institutioncode:KU" ; Times: 2
+	Query: "Elasmodontomys obliquus" ; Times: 1
+	Query: "catalognumber:10667 institutioncode:KU" ; Times: 1
+	Query: "KU 115241" ; Times: 1
+	Query: "KU 25127" ; Times: 2
+	Query: "KU 69831" ; Times: 2
+	Query: "88511" ; Times: 1
+	Query: "catalognumber:12226 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:3226 institutioncode:ku" ; Times: 2
+	Query: "genus:thylacinus" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "KU 112310" ; Times: 2
+	Query: "type:specimen country:"India" fossil:1" ; Times: 1
+	Query: "catalognumber:12152 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 976 download events in this period)
+Total number of records downloaded: 2095 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2057
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-09 ; Times: 4
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-21 ; Times: 7
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "agamidae" ; Times: 2
+	Query: "Capromyidae" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Didelphis institutioncode:KU" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 144
+Total number of records retrieved from searches: 841
+Number of download events that retrieved data from the resource: 79
+Total number of records downloaded: 4812
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 194
+Total number of records retrieved from searches: 994
+Number of download events that retrieved data from the resource: 98
+Total number of records downloaded: 15556
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
