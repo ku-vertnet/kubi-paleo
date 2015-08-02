@@ -1,0 +1,131 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 504
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-07 ; Times: 4
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 3
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 5
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-23 ; Times: 4
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-30 ; Times: 3
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "KU 95783" ; Times: 2
+	Query: "KU 61121" ; Times: 1
+	Query: "Dinornithiformes" ; Times: 1
+	Query: "catalognumber:28909 institutioncode:ku" ; Times: 1
+	Query: "nesophontes" ; Times: 5
+	Query: "KU 100263" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "95649" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "89763 institutioncode:KU" ; Times: 1
+	Query: "institutioncode:KU (5304)" ; Times: 2
+	Query: "catalognumber:21655 institutioncode:ku" ; Times: 1
+	Query: "Litopterna" ; Times: 1
+	Query: "ku 7425" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "KU 12649" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "KU 890" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "catalognumber:12368 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1084 download events in this period)
+Total number of records downloaded: 5963 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5270
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-22 ; Times: 7
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "triceratops" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 297
+Total number of records retrieved from searches: 2390
+Number of download events that retrieved data from the resource: 119
+Total number of records downloaded: 11802
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 347
+Total number of records retrieved from searches: 2543
+Number of download events that retrieved data from the resource: 138
+Total number of records downloaded: 22546
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
