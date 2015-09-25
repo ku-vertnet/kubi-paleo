@@ -1,0 +1,190 @@
+Report for Institution Code KU, Resource KUVP
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 90
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 68
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 4
+	Date: 2015-08-05 ; Times: 10
+	Date: 2015-08-06 ; Times: 8
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-18 ; Times: 6
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-21 ; Times: 8
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 3
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "102630 class:mammalia" ; Times: 1
+	Query: "KU 65381" ; Times: 2
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "melanoleucus institutioncode:KU" ; Times: 1
+	Query: "KU 6669" ; Times: 1
+	Query: "KU 5851" ; Times: 1
+	Query: "KU 9469" ; Times: 1
+	Query: "KU 8014" ; Times: 1
+	Query: "KU 103220" ; Times: 2
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "catalognumber:86857 institutioncode:KU" ; Times: 1
+	Query: "48524" ; Times: 1
+	Query: "116791 class:mammalia" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "catalognumber:21173 institutioncode:KU" ; Times: 2
+	Query: "ku 65373" ; Times: 1
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "KU 65375" ; Times: 2
+	Query: "KU 65374" ; Times: 2
+	Query: "102824" ; Times: 1
+	Query: "KU 65397" ; Times: 2
+	Query: "KU 115144" ; Times: 2
+	Query: "catalognumber:14803 institutioncode:KU" ; Times: 2
+	Query: "92141" ; Times: 2
+	Query: "83487" ; Times: 1
+	Query: "KU 9952" ; Times: 1
+	Query: "hippocamelus" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "catalognumber:113794" ; Times: 2
+	Query: "catalognumber:104113" ; Times: 1
+	Query: "109322" ; Times: 1
+	Query: "catalognumber:86917 institutioncode:KU" ; Times: 1
+	Query: "pulsatrix" ; Times: 1
+	Query: "118174 class:mammalia" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 10
+	Query: "118043 class:mammalia" ; Times: 1
+	Query: "catalognumber:6316 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:7425 institutioncode:KU" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "KU 87932" ; Times: 1
+	Query: "94519" ; Times: 3
+	Query: "148251" ; Times: 1
+	Query: "KU 65380" ; Times: 2
+	Query: "KU 67714" ; Times: 1
+	Query: "catalognumber:102825" ; Times: 3
+	Query: "Teratornis" ; Times: 1
+	Query: "KU 3577" ; Times: 1
+	Query: "pulsatrix institutioncode:KU" ; Times: 1
+	Query: "KU 14803" ; Times: 2
+	Query: "27999" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1138 download events in this period)
+Total number of records downloaded: 2086 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1217
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-17 ; Times: 8
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 3
+	Date: 2015-08-25 ; Times: 22
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 3
+	Query: "Microtus miurus" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 3
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 3
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "marmota flaviventris wyoming" ; Times: 3
+	Query: "country:"peru"" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 78
+Total number of records retrieved from searches: 90
+Number of download events that retrieved data from the resource: 50
+Total number of records downloaded: 2086
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 78
+Total number of records retrieved from searches: 90
+Number of download events that retrieved data from the resource: 50
+Total number of records downloaded: 2086
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
