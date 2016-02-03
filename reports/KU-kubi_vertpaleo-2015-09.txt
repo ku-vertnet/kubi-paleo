@@ -1,0 +1,185 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 744
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: French Guiana ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-29 ; Times: 7
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-10 ; Times: 6
+	Date: 2015-09-25 ; Times: 12
+	Date: 2015-09-05 ; Times: 8
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia institutioncode:KU fossil:1" ; Times: 2
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "KU 21677" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "KU 95783" ; Times: 2
+	Query: "KU 15300" ; Times: 2
+	Query: "KU 15248" ; Times: 2
+	Query: "KU 30838" ; Times: 2
+	Query: "KUVP 47367" ; Times: 2
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "KU 19397" ; Times: 2
+	Query: "institutioncode:KU fossil:1" ; Times: 2
+	Query: "catalognumber:64800 institutioncode:KU" ; Times: 1
+	Query: "KU 65375" ; Times: 2
+	Query: "KU 8510" ; Times: 1
+	Query: "ku 101001" ; Times: 1
+	Query: "Mormoops blainvillii" ; Times: 3
+	Query: "Stenoderma rufum" ; Times: 3
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "hadrosaurus" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "KU 6890" ; Times: 1
+	Query: "KU 28003" ; Times: 1
+	Query: "Dolichorhynchops" ; Times: 1
+	Query: "KU 25824" ; Times: 1
+	Query: "class:Amphibia county:&#34;Tillman&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Gerrhonotus institutioncode:KU" ; Times: 1
+	Query: "KU 85010" ; Times: 1
+	Query: "hadrosauridae" ; Times: 2
+	Query: "class:Reptilia county:&#34;Norton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "KU 890" ; Times: 2
+	Query: "&#34;FossilSpecimen&#34; specificepithet:rex" ; Times: 9
+	Query: "149922" ; Times: 1
+	Query: "KU 12641" ; Times: 1
+	Query: "class:Amphibia county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "KU 12642" ; Times: 1
+	Query: "ku 88978" ; Times: 1
+	Query: "bufo baxteri" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "KU 67716" ; Times: 1
+	Query: "KU 87603" ; Times: 2
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "90670" ; Times: 1
+	Query: "catalognumber:23354 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:90670 institutioncode:KU" ; Times: 1
+	Query: "class:Reptilia county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34; AND (NOT YPM)" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "genus:Ochotona fossil:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1045 download events in this period)
+Total number of records downloaded: 2667
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 61
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 16
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-10 ; Times: 22
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-15 ; Times: 6
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "alsophis" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Manis gigantea" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
