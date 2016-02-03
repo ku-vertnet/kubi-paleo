@@ -1,0 +1,149 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 594
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 34
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-04 ; Times: 7
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-23 ; Times: 6
+	Date: 2015-11-09 ; Times: 8
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-22 ; Times: 5
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 6
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 99455" ; Times: 1
+	Query: "catalognumber:114701 institutioncode:KU" ; Times: 1
+	Query: "KU 9779" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "podiceps auritus institutioncode:KU" ; Times: 1
+	Query: "podilymbus institutioncode:KU" ; Times: 1
+	Query: "aythya collaris institutioncode:KU" ; Times: 1
+	Query: "KU 145190" ; Times: 2
+	Query: "94563" ; Times: 1
+	Query: "141749" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "KU 19169" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "catalognumber:24451 institutioncode:KU" ; Times: 2
+	Query: "65941" ; Times: 1
+	Query: "KU 11713" ; Times: 2
+	Query: "28884" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "KU 9939" ; Times: 1
+	Query: "KU 11678" ; Times: 1
+	Query: "Protostega" ; Times: 1
+	Query: "KU 30742" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Corvus fossil" ; Times: 3
+	Query: "aythya affinis institutioncode:KU" ; Times: 1
+	Query: "KU 110763" ; Times: 1
+	Query: "aythya valisineria institutioncode:KU" ; Times: 1
+	Query: "specificepithet:caspicus family:Podicipedidae" ; Times: 2
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "KU 64227" ; Times: 1
+	Query: "anhinga anhinga institutioncode:KU" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "KU 106317" ; Times: 2
+	Query: "specificepithet:corax genus:corvus fossil:1" ; Times: 2
+	Query: "33588" ; Times: 1
+	Query: "pulsatrix institutioncode:KU" ; Times: 6
+	Query: "ku 33585" ; Times: 1
+	Query: "66553" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 751 download events in this period)
+Total number of records downloaded: 1080
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 62
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 3
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-01 ; Times: 4
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-02 ; Times: 6
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "Numenius borealis" ; Times: 3
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "genus:Thambetochen" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "genus:Sorex institutioncode:KU" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
