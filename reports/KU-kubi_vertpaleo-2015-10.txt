@@ -1,0 +1,113 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 159
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 6
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-24 ; Times: 3
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 6669" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;texas&#34; institutioncode:KU" ; Times: 1
+	Query: "catalognumber:143122 institutioncode:KU" ; Times: 1
+	Query: "thylacosmilus lentis" ; Times: 3
+	Query: "121056" ; Times: 2
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Odocoileus virginianus and Missouri" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "ku 9952" ; Times: 1
+	Query: "ku 94400" ; Times: 1
+	Query: "brachychampsa" ; Times: 1
+	Query: "catalognumber:2835 institutioncode:KU" ; Times: 1
+	Query: "Platybelodon" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "genus:leptoptilos institutioncode:KU" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Rhizomys sinensis" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "bonneri" ; Times: 1
+	Query: "catalognumber:90049 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:90235 institutioncode:KU" ; Times: 2
+	Query: "KU 13469" ; Times: 1
+	Query: "amphibia fossil" ; Times: 1
+	Query: "catalognumber:11963 institutioncode:KU" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "dasypus bellus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 823 download events in this period)
+Total number of records downloaded: 7735
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-31 ; Times: 4
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Adinotherium" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "family:Picidae class:aves institutioncode:KU" ; Times: 2
+	Query: "type:specimen order:Piciformes class:Aves institutioncode:KU" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "(amphibia) fossil:1" ; Times: 1
+	Query: "family:Psittacidae class:aves institutioncode:KU" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx institutioncode:KU" ; Times: 1
+
+
+End of report.
