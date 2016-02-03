@@ -1,0 +1,151 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 335
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 38
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-07 ; Times: 5
+	Date: 2015-12-05 ; Times: 8
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-21 ; Times: 3
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-29 ; Times: 18
+	Date: 2015-12-28 ; Times: 3
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "family:hominidae institutioncode:KU" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "catalognumber:6653 institutioncode:KU" ; Times: 2
+	Query: "113810" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "type:specimen institutioncode:KU hastypestatus:1 fossil:1" ; Times: 2
+	Query: "catalognumber:15912 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:9170 institutioncode:KU" ; Times: 1
+	Query: "ku 90961" ; Times: 1
+	Query: "KU 88978" ; Times: 1
+	Query: "catalognumber:5323 institutioncode:KU" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "type:specimen catalognumber:90271 institutioncode:KU" ; Times: 1
+	Query: "parophisaurus pawneensis" ; Times: 1
+	Query: "catalognumber:15889 institutioncode:KU" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "catalognumber:9160 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "106669" ; Times: 1
+	Query: "catalognumber:9126 institutioncode:KU" ; Times: 4
+	Query: "catalognumber:5285 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6642 institutioncode:KU" ; Times: 2
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "ku 67714" ; Times: 1
+	Query: "catalognumber:9167 institutioncode:KU" ; Times: 2
+	Query: "110949" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "ku 88208" ; Times: 1
+	Query: "pulsatrix institutioncode:KU" ; Times: 10
+	Query: "catalognumber:85010 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:5529 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 889 download events in this period)
+Total number of records downloaded: 1758
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 6
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-25 ; Times: 11
+	Date: 2015-12-24 ; Times: 7
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-19 ; Times: 3
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "specificepithet:curtatus genus:Lemmiscus" ; Times: 1
+	Query: "type:specimen family:felidae institutioncode:KU" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "specificepithet:talpoides genus:Thomomys" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "specificepithet:longicaudus genus:Microtus" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Lepomis" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "specificepithet:idahoensis genus:Brachylagus" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "bufo compactilis" ; Times: 2
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Phenacomys" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma" ; Times: 2
+	Query: "specificepithet:rufus genus:Felis" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 2
+
+
+End of report.
