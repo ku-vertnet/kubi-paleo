@@ -1,0 +1,89 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 27
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 10
+	Country: Sweden ; Times: 4
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-06 ; Times: 1
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-11 ; Times: 7
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rallidae (Rallidae AND insignis)" ; Times: 1
+	Query: "KU 105903" ; Times: 1
+	Query: "ku 141456" ; Times: 2
+	Query: "55253" ; Times: 1
+	Query: "KU 123586" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "90079 (ku)" ; Times: 1
+	Query: "Kritosaurus" ; Times: 1
+	Query: "ku 141775" ; Times: 2
+	Query: "KU 109077" ; Times: 2
+	Query: "type:specimen catalognumber:13478 institutioncode:KU" ; Times: 1
+	Query: "Ku 92813" ; Times: 1
+	Query: "canis lupus type:specimen institutioncode:KU" ; Times: 1
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "kinosternon type:specimen genus:kinosternon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "KU 92828" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Strix fossil:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 512 download events in this period)
+Total number of records downloaded: 552
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+
+
+End of report.
