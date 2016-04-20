@@ -1,0 +1,78 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "116352" ; Times: 2
+	Query: "95588" ; Times: 1
+	Query: "KU 87117" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "limnodytes" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "KU 108426" ; Times: 1
+	Query: "catalognumber:104086 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:69031 institutioncode:KU" ; Times: 2
+	Query: "KU 68077" ; Times: 1
+	Query: "specificepithet:americana genus:Grus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Aramus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:135065 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 230 download events in this period)
+Total number of records downloaded: 646
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hesperotestudo" ; Times: 1
+	Query: "mustela frenata institutioncode:KU" ; Times: 1
+	Query: "mustela erminea institutioncode:KU" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis institutioncode:KU" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "lepus townsendii institutioncode:KU" ; Times: 1
+	Query: "Anura institutioncode:KU" ; Times: 1
+
+
+End of report.
