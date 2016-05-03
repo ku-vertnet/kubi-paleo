@@ -1,0 +1,181 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Portugal ; Times: 11
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-13 ; Times: 14
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-03 ; Times: 6
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-19 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "stereospondyli" ; Times: 1
+	Query: "catalognumber:1383 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:4109 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "KU 3756" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "KU 141487" ; Times: 1
+	Query: "Silvisaurus" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "KU 3298" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "135680" ; Times: 1
+	Query: "Stegosaurus" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "catalognumber:87118 institutioncode:KU" ; Times: 1
+	Query: "KU 142285" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "141787 KU" ; Times: 1
+	Query: "KU 142352" ; Times: 1
+	Query: "catalognumber:17256 institutioncode:KU" ; Times: 3
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "catalognumber:34768 institutioncode:KU" ; Times: 2
+	Query: "KU 141478" ; Times: 1
+	Query: "KU 141435" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "KU 141419" ; Times: 1
+	Query: "KU 3314" ; Times: 1
+	Query: "KU 141912" ; Times: 1
+	Query: "KU 141762" ; Times: 1
+	Query: "Edmontonia" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "cacops" ; Times: 1
+	Query: "dimetrodon" ; Times: 2
+	Query: "KU 115069" ; Times: 1
+	Query: "catalognumber:10141 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:8292 institutioncode:KU" ; Times: 2
+	Query: "108467" ; Times: 1
+	Query: "catalognumber:25184 institutioncode:KU" ; Times: 1
+	Query: "KU 150122" ; Times: 1
+	Query: "catalognumber:1116 institutioncode:KU" ; Times: 1
+	Query: "Ankylosaurus" ; Times: 1
+	Query: "KU 142322" ; Times: 1
+	Query: "capromys" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "KU 3562" ; Times: 1
+	Query: "catalognumber:10221 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:104238" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1312 download events in this period)
+Total number of records downloaded: 59629
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 48
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 15
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 25
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "institutioncode:ku mammalia" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "temnospondyli" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+
+
+End of report.
