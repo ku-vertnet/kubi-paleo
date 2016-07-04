@@ -1,0 +1,208 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 1360
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 106
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 8
+	Country: Mexico ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 21
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-21 ; Times: 8
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-13 ; Times: 23
+	Date: 2016-06-03 ; Times: 27
+	Date: 2016-06-02 ; Times: 32
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "bison bison   " ; Times: 3
+	Query: "99393" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "KU 3804" ; Times: 1
+	Query: "Thoatherium" ; Times: 1
+	Query: "Reptilia 109101" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Reptilia 36285" ; Times: 1
+	Query: "Reptilia 36284" ; Times: 1
+	Query: "Dilophodon" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "class:Chondrichthyes county:&#34;Gove&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+	Query: "8442 mammalia" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "141802" ; Times: 1
+	Query: "120059" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "Cervalces" ; Times: 1
+	Query: "Reptilia 105993" ; Times: 1
+	Query: "Reptilia 105992" ; Times: 1
+	Query: "Reptilia 105813" ; Times: 1
+	Query: "145108" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "KU 65373" ; Times: 3
+	Query: "86655" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "KU 97516" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "67447" ; Times: 1
+	Query: "141630" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "catalognumber:9960 institutioncode:KU" ; Times: 1
+	Query: "137030" ; Times: 1
+	Query: "Eotragus" ; Times: 1
+	Query: "Reptilia 85596" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "Reptilia 105423" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Reptilia 105938" ; Times: 1
+	Query: "KU 103221" ; Times: 1
+	Query: "KU 103220" ; Times: 3
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "141529" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 18
+	Query: "KU 143107" ; Times: 2
+	Query: "KU 143105" ; Times: 1
+	Query: "Scincidae type:specimen (Fossil)" ; Times: 1
+	Query: "Reptilia 106011" ; Times: 2
+	Query: "134397" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "Reptilia 49492" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "bufo baxteri" ; Times: 2
+	Query: "apatosaurus" ; Times: 1
+	Query: "102893" ; Times: 1
+	Query: "class:Chondrichthyes county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Reptilia 85597" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "Reptilia 14694" ; Times: 1
+	Query: "Reptilia 80106" ; Times: 1
+	Query: "Reptilia 85436" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "corvus corax fossil" ; Times: 1
+	Query: "genus:bison" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "150223" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "bison university of kansas" ; Times: 3
+	Query: "KU 25087" ; Times: 2
+	Query: "Reptilia 25158" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "institutioncode: KU 13537" ; Times: 1
+	Query: "Reptilia 16642" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "112237" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1052 download events in this period)
+Total number of records downloaded: 1548
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-18 ; Times: 4
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "erethizon" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "bison university of kansas" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bufo baxteri" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Gopherus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
