@@ -1,0 +1,164 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 275
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 64
+	Country: Denmark ; Times: 11
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Bolivia ; Times: 13
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 6
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-11 ; Times: 8
+	Date: 2018-01-10 ; Times: 13
+	Date: 2018-01-15 ; Times: 7
+	Date: 2018-01-14 ; Times: 3
+	Date: 2018-01-17 ; Times: 8
+	Date: 2018-01-16 ; Times: 8
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-08 ; Times: 6
+	Date: 2018-01-09 ; Times: 13
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:4779 institutioncode:KU" ; Times: 1
+	Query: "77136" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "89962" ; Times: 1
+	Query: "138617" ; Times: 1
+	Query: "catalognumber:10246 institutioncode:KU" ; Times: 1
+	Query: "genus:Nucifraga institutioncode:KU" ; Times: 3
+	Query: "catalognumber:118008 institutioncode:KU" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "catalognumber:70474 institutioncode:KU" ; Times: 2
+	Query: "123553" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "48520" ; Times: 1
+	Query: "order:rodentia class:mammalia 25014" ; Times: 1
+	Query: "genus:Xestops" ; Times: 2
+	Query: "118132" ; Times: 1
+	Query: "fraudator" ; Times: 1
+	Query: "catalognumber:70473 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:14814 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:familiaris institutioncode:KU" ; Times: 1
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "84111" ; Times: 1
+	Query: "genus:Triceratops" ; Times: 2
+	Query: "genus:Paraglyptosaurus" ; Times: 4
+	Query: "Dinictis" ; Times: 1
+	Query: "catalognumber:3140 institutioncode:KU" ; Times: 1
+	Query: "genus:Glyptosaurus" ; Times: 4
+	Query: "genus:Xestops institutioncode:KU" ; Times: 1
+	Query: "(4779) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:10368 institutioncode:KU" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "r-87617" ; Times: 1
+	Query: "KU 949" ; Times: 1
+	Query: "KU 4986" ; Times: 2
+	Query: "Palaeolodus" ; Times: 1
+	Query: "thylacosmilidae" ; Times: 1
+	Query: "genus:Arpadosaurus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:11157 institutioncode:KU" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "catalognumber:110699 institutioncode:KU" ; Times: 2
+	Query: "genus:geomys stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "KU 30078" ; Times: 2
+	Query: "genus:Ovibos institutioncode:KU" ; Times: 4
+	Query: "catalognumber:95811 institutioncode:KU" ; Times: 3
+	Query: "95638" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "catalognumber:1360 institutioncode:KU" ; Times: 1
+	Query: "109562" ; Times: 1
+	Query: "catalognumber:142698 institutioncode:KU" ; Times: 3
+	Query: "136206" ; Times: 1
+	Query: "147190" ; Times: 2
+	Query: "class:aves catalognumber:88257 institutioncode:KU" ; Times: 1
+	Query: "genus:Glyptosaurus institutioncode:KU" ; Times: 1
+	Query: "119073" ; Times: 4
+	Query: "archaeopteryx" ; Times: 2
+	Query: "genus:Arpadosaurus" ; Times: 2
+	Query: "catalognumber:15276 institutioncode:KU" ; Times: 1
+	Query: "KU 138617" ; Times: 1
+	Query: "(3140) institutioncode:KU" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "genus:Paraglyptosaurus institutioncode:KU" ; Times: 1
+	Query: "genus:Numenius stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:114771 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:14772 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:104023 institutioncode:KU" ; Times: 2
+	Query: "86159" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 5
+	Query: "catalognumber:120768 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:15277 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1398 download events in this period)
+Total number of records downloaded: 1561
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Italy ; Times: 2
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Epicyon" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "genus:Nucifraga institutioncode:KU" ; Times: 2
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+
+
+End of report.
