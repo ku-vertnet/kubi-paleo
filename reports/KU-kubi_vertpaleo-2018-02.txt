@@ -1,0 +1,183 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 74
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 7
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 9
+	Date: 2018-02-27 ; Times: 8
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 17
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-19 ; Times: 3
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:140701 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "vntype:specimen genus:Ctenomys hastypestatus:1" ; Times: 1
+	Query: "catalognumber:59469 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:59478 institutioncode:KU" ; Times: 1
+	Query: "139594" ; Times: 1
+	Query: "catalognumber:30510 institutioncode:KU" ; Times: 1
+	Query: "(19407) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:31076 institutioncode:KU" ; Times: 1
+	Query: "KU 24629" ; Times: 2
+	Query: "catalognumber:1274 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:95750 institutioncode:KU" ; Times: 1
+	Query: "ku 6623" ; Times: 1
+	Query: "KU 24643" ; Times: 1
+	Query: "catalognumber:9507 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;plesiadapis sp.&#34;" ; Times: 1
+	Query: "KU 114007" ; Times: 1
+	Query: "108688" ; Times: 1
+	Query: "catalognumber:55498 institutioncode:KU" ; Times: 1
+	Query: "27666 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:59473 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:140706 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:24633 institutioncode:KU" ; Times: 1
+	Query: "(19408) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32462 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:140702 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:1269 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:24580 institutioncode:KU" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "catalognumber:1272 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:140703 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:23598 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:15817 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;elphidotarsius sp.&#34;" ; Times: 1
+	Query: "KU 24997" ; Times: 1
+	Query: "KU 24796" ; Times: 1
+	Query: "mylodon" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Nesiotites hidalgo " ; Times: 1
+	Query: "catalognumber:32426 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:1275 institutioncode:KU" ; Times: 2
+	Query: "scientificname:&#34;equus sp.&#34;" ; Times: 1
+	Query: "catalognumber:1273 institutioncode:KU" ; Times: 2
+	Query: "scientificname:&#34;purgatorius sp.&#34;" ; Times: 1
+	Query: "catalognumber:105249 institutioncode:KU" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "genus:mustela institutioncode:KU isfossil:1" ; Times: 1
+	Query: "catalognumber:140700 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "catalognumber:72426 institutioncode:KU" ; Times: 1
+	Query: "ku 13478" ; Times: 1
+	Query: "catalognumber:140704 institutioncode:KU" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "KU 28789" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "catalognumber:59474 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;chiromyoides sp.&#34;" ; Times: 1
+	Query: "catalognumber:26184 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:140699 institutioncode:KU" ; Times: 1
+	Query: "123022" ; Times: 1
+	Query: "class:Aves catalognumber:86992 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:95731 institutioncode:KU" ; Times: 1
+	Query: "scientificname:&#34;mesohippus sp.&#34;" ; Times: 1
+	Query: "catalognumber:4911 institutioncode:KU" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 1979 year &lt;= 1987 basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "114020" ; Times: 1
+	Query: "catalognumber:59472 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:13512 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:15818 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:140705 institutioncode:KU" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "Phyllonycteris major " ; Times: 1
+	Query: "catalognumber:1276 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:14049 institutioncode:KU" ; Times: 1
+	Query: "142457" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1892 download events in this period)
+Total number of records downloaded: 119393
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-01 ; Times: 23
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:andrias" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "stegomastodon" ; Times: 2
+	Query: "Microtus montanus" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "puma" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:KU" ; Times: 2
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "genus:Myotis institutioncode:KU" ; Times: 1
+
+
+End of report.
