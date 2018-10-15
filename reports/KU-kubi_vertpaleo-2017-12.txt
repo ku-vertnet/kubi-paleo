@@ -1,0 +1,109 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 90
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 6
+	Date: 2017-12-12 ; Times: 4
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "apataelurus" ; Times: 1
+	Query: "120038" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "ku 147042" ; Times: 1
+	Query: "ku 147041" ; Times: 1
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "alces institutioncode:KU" ; Times: 1
+	Query: "ku 6917" ; Times: 1
+	Query: "KU 26380" ; Times: 1
+	Query: "114011 institutioncode:KU" ; Times: 1
+	Query: "ku 1551" ; Times: 1
+	Query: "KU 93112" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "KU 16139" ; Times: 1
+	Query: "class:aves (4974) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "19403 institutioncode:KU" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "119073" ; Times: 1
+	Query: "KU 19131" ; Times: 1
+	Query: "ku 19400" ; Times: 1
+	Query: "ku 147100" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "ku 89347" ; Times: 2
+	Query: "ku 10699" ; Times: 1
+	Query: "ku 147000" ; Times: 2
+	Query: "110080" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 674 download events in this period)
+Total number of records downloaded: 316
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus miurus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "alces institutioncode:KU" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+
+
+End of report.
