@@ -1,0 +1,72 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 44
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 5
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 7
+	Date: 2017-11-29 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 17152" ; Times: 1
+	Query: "KU 21306" ; Times: 1
+	Query: "KU 14745" ; Times: 2
+	Query: "KU 17013" ; Times: 2
+	Query: "108105" ; Times: 3
+	Query: "8098 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:8098 institutioncode:KU" ; Times: 1
+	Query: "KU 19473" ; Times: 2
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "catalognumber:8087 institutioncode:KU" ; Times: 1
+	Query: "KU 17191" ; Times: 2
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "KU 17650" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "catalognumber:14671 institutioncode:KU" ; Times: 2
+	Query: "KU 17691" ; Times: 1
+	Query: "KU 19482" ; Times: 1
+	Query: "catalognumber:14669 institutioncode:KU" ; Times: 2
+	Query: "KU 21228" ; Times: 1
+	Query: "KU 19446" ; Times: 1
+	Query: "KU 19523" ; Times: 1
+	Query: "KU 21204" ; Times: 1
+	Query: "KU 21192" ; Times: 1
+	Query: "KU 17086" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1101 download events in this period)
+Total number of records downloaded: 433
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+
+
+End of report.
