@@ -1,0 +1,244 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 593
+Number of records retrieved in searches: 11774
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 547
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 14
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-06 ; Times: 16
+	Date: 2018-03-07 ; Times: 14
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-14 ; Times: 7
+	Date: 2018-03-27 ; Times: 72
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-18 ; Times: 4
+	Date: 2018-03-01 ; Times: 14
+	Date: 2018-03-02 ; Times: 61
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-04 ; Times: 6
+	Date: 2018-03-05 ; Times: 69
+	Date: 2018-03-28 ; Times: 26
+	Date: 2018-03-29 ; Times: 34
+	Date: 2018-03-26 ; Times: 100
+	Date: 2018-03-09 ; Times: 8
+	Date: 2018-03-25 ; Times: 9
+	Date: 2018-03-23 ; Times: 40
+	Date: 2018-03-20 ; Times: 63
+	Date: 2018-03-21 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:gruidae institutioncode:KU" ; Times: 1
+	Query: "catalognumber:105848 institutioncode:KU" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 10
+	Query: "genus:Paromomys specificepithet:maturus" ; Times: 6
+	Query: "genus:Saurornitholestes specificepithet:langstoni" ; Times: 6
+	Query: "genus:Purgatorius specificepithet:sp." ; Times: 5
+	Query: "genus:Hesperornis specificepithet:regalis" ; Times: 6
+	Query: "ku 84721" ; Times: 1
+	Query: "genus:Gila specificepithet:atraria" ; Times: 6
+	Query: "genus:Mormoops specificepithet:blainvillii" ; Times: 5
+	Query: "105820" ; Times: 1
+	Query: "family:ciconiidae class:aves institutioncode:KU" ; Times: 1
+	Query: "catalognumber:84880 institutioncode:KU" ; Times: 2
+	Query: "genus:Stenoderma specificepithet:rufum" ; Times: 5
+	Query: "genus:Chiromyoides specificepithet:sp." ; Times: 5
+	Query: "genus:Palaeothentes specificepithet:minutus" ; Times: 5
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 2
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 6
+	Query: "genus:Ptychodus specificepithet:sp." ; Times: 6
+	Query: "genus:Protosphyraena specificepithet:gladius" ; Times: 7
+	Query: "genus:Plesiadapis specificepithet:rex" ; Times: 6
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 9
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Cyclura specificepithet:pinguis" ; Times: 5
+	Query: "genus:Platecarpus specificepithet:sp." ; Times: 6
+	Query: "KU 94118" ; Times: 2
+	Query: "21570" ; Times: 1
+	Query: "genus:Clidastes specificepithet:propython" ; Times: 7
+	Query: "genus:Nekrolagus specificepithet:progressus" ; Times: 5
+	Query: "ku 119813" ; Times: 1
+	Query: "genus:Ignacius specificepithet:fremontensis" ; Times: 5
+	Query: "genus:Graptemys specificepithet:sp." ; Times: 5
+	Query: "12263 institutioncode:KU" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "KU 98135" ; Times: 1
+	Query: "genus:Nannodectes specificepithet:intermedius" ; Times: 5
+	Query: "119120" ; Times: 1
+	Query: "135640" ; Times: 1
+	Query: "(15914) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:136312 institutioncode:KU" ; Times: 1
+	Query: "ku 25670" ; Times: 1
+	Query: "genus:Canis specificepithet:sp." ; Times: 5
+	Query: "genus:Paromomys specificepithet:depressidens" ; Times: 6
+	Query: "genus:Cantius specificepithet:sp." ; Times: 6
+	Query: "KU 145190" ; Times: 2
+	Query: "genus:Nannodectes specificepithet:gazini" ; Times: 5
+	Query: "catalognumber:149132 institutioncode:KU" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:cookei" ; Times: 6
+	Query: "genus:Cervalces specificepithet:scotti" ; Times: 5
+	Query: "136806" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:tricuspidens" ; Times: 6
+	Query: "genus:nucifraga institutioncode:KU" ; Times: 2
+	Query: "genus:Hemiacodon specificepithet:gracilis" ; Times: 7
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 6
+	Query: "93526" ; Times: 1
+	Query: "138534" ; Times: 1
+	Query: "iptrecordid:&#34;51e4f708-1ed9-11e3-bfac-90b11c41863e&#34;" ; Times: 4
+	Query: "genus:Sciurus specificepithet:sp." ; Times: 5
+	Query: "KU 4986" ; Times: 2
+	Query: "132363 vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "genus:Cyclura specificepithet:cornuta" ; Times: 5
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 6
+	Query: "KU 30078" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis institutioncode:KU" ; Times: 1
+	Query: "genus:Didelphodus specificepithet:sp." ; Times: 6
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 5
+	Query: "genus:Paramys specificepithet:delicatus" ; Times: 2
+	Query: "genus:Dromaeosaurus specificepithet:albertensis" ; Times: 6
+	Query: "genus:cyclura institutioncode:KU" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:churchilli" ; Times: 6
+	Query: "genus:Mesohippus specificepithet:bairdi" ; Times: 6
+	Query: "KU 2534" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:praecursor" ; Times: 6
+	Query: "vntype:specimen order:ciconiiformes class:aves institutioncode:KU" ; Times: 1
+	Query: "genus:Edestus specificepithet:heinrichi" ; Times: 5
+	Query: "KU 96900" ; Times: 2
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Platecarpus specificepithet:coryphaeus " ; Times: 6
+	Query: "90545" ; Times: 1
+	Query: "90544" ; Times: 1
+	Query: "101537" ; Times: 2
+	Query: "90543" ; Times: 1
+	Query: "90542" ; Times: 2
+	Query: "catalognumber:148814" ; Times: 1
+	Query: "genus:Didelphis specificepithet:sp." ; Times: 5
+	Query: "catalognumber:30510 institutioncode:KU" ; Times: 1
+	Query: "genus:Limnopus" ; Times: 3
+	Query: "genus:Ischyromys specificepithet:typus" ; Times: 5
+	Query: "catalognumber:117945" ; Times: 3
+	Query: "genus:Marmosa specificepithet:sp." ; Times: 5
+	Query: "50204" ; Times: 1
+	Query: "genus:Palaeolagus specificepithet:haydeni" ; Times: 5
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "genus:Machairodus" ; Times: 3
+	Query: "catalognumber:110318 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:140339" ; Times: 1
+	Query: "catalognumber:27873 institutioncode:KU" ; Times: 1
+	Query: "genus:Cottus specificepithet:extensus" ; Times: 9
+	Query: "genus:Dakotasuchus specificepithet:kingi" ; Times: 5
+	Query: "genus:Clidastes specificepithet:sp." ; Times: 7
+	Query: "139626" ; Times: 1
+	Query: "genus:Phenacolemur specificepithet:pagei" ; Times: 5
+	Query: "KU 93526" ; Times: 2
+	Query: "genus:Dasypus specificepithet:sp." ; Times: 5
+	Query: "genus:Spermophilus specificepithet:sp." ; Times: 6
+	Query: "genus:Megalonyx specificepithet:jeffersoni" ; Times: 5
+	Query: "genus:Ignacius specificepithet:frugivorus" ; Times: 5
+	Query: "(Carbon) AND (NOT PBDB) isfossil:1" ; Times: 3
+	Query: "KU 30095" ; Times: 3
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 5
+	Query: "KU 16003" ; Times: 1
+	Query: "119705" ; Times: 1
+	Query: "genus:Omomys specificepithet:sp.?" ; Times: 8
+	Query: "class:Aves (8569) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:4862 institutioncode:KU" ; Times: 2
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Thrinaxodon specificepithet:sp." ; Times: 7
+	Query: "genus:Hesperocyon specificepithet:gregarius" ; Times: 5
+	Query: "13239 vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "KU 104756" ; Times: 1
+	Query: "132369 vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "genus:Palaeictops specificepithet:sp." ; Times: 1
+	Query: "catalognumber:16085 institutioncode:KU" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:nigridens" ; Times: 9
+	Query: "genus:Protosphyraena specificepithet:sp." ; Times: 7
+	Query: "ku 92231" ; Times: 1
+	Query: "ku 92232" ; Times: 1
+	Query: "genus:Aphronorus specificepithet:orieli" ; Times: 5
+	Query: "catalognumber:87573 institutioncode:KU" ; Times: 1
+	Query: "101843" ; Times: 1
+	Query: "genus:Nannippus specificepithet:peninsulatus" ; Times: 5
+	Query: "KU 30083" ; Times: 2
+	Query: "genus:Lepus specificepithet:sp." ; Times: 5
+	Query: "Megalodon south carolina" ; Times: 1
+	Query: "genus:Toxochelys specificepithet:latiremis" ; Times: 6
+	Query: "genus:Notharctus specificepithet:sp." ; Times: 10
+	Query: "genus:Plesiadapis specificepithet:sp." ; Times: 6
+	Query: "vntype:specimen family:threskiornithidae institutioncode:KU" ; Times: 1
+	Query: "genus:Absarokius specificepithet:sp." ; Times: 7
+	Query: "genus:Plesiadapis specificepithet:fodinatus" ; Times: 6
+	Query: "65223" ; Times: 1
+	Query: "vntype:specimen family:phoenicopteridae institutioncode:KU" ; Times: 1
+	Query: "92774" ; Times: 1
+	Query: "136841" ; Times: 1
+	Query: "catalognumber:4863 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:anceps" ; Times: 6
+	Query: "genus:Xiphactinus specificepithet:audax" ; Times: 6
+	Query: "genus:Equus specificepithet:sp." ; Times: 5
+	Query: "genus:Paramys  specificepithet:delicatus" ; Times: 3
+	Query: "genus:lagopus class:aves institutioncode:KU" ; Times: 1
+	Query: "135790" ; Times: 1
+	Query: "genus:Thrinaxodon specificepithet:liorhinus" ; Times: 5
+	Query: "ku 16003" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 3
+	Query: "ku 124008" ; Times: 1
+	Query: "genus:Nannodectes specificepithet:simpsoni" ; Times: 5
+	Query: "ku 119705" ; Times: 1
+	Query: "genus:Dinictis specificepithet:squalidens" ; Times: 5
+	Query: "genus:Notharctus specificepithet:robustior" ; Times: 8
+	Query: "catalognumber:84725 institutioncode:KU" ; Times: 2
+	Query: "ku 99748" ; Times: 1
+	Query: "KU 106317" ; Times: 2
+	Query: "genus:Mesohippus specificepithet:sp." ; Times: 6
+	Query: "genus:Didelphodon specificepithet:vorax" ; Times: 2
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 2
+	Query: "genus:Gomphotherium" ; Times: 3
+	Query: "genus:Neohipparion specificepithet:eurystyle" ; Times: 2
+	Query: "catalognumber:19483 institutioncode:KU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1284 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "Grus americana" ; Times: 1
+	Query: "genus:nucifraga institutioncode:KU" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+
+
+End of report.
