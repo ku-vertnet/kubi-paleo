@@ -1,0 +1,207 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 882
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 10
+	Country: Singapore ; Times: 7
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Denmark ; Times: 28
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 90
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 8
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 5
+	Date: 2018-04-01 ; Times: 6
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 10
+	Date: 2018-04-04 ; Times: 6
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-12 ; Times: 32
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 33
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-14 ; Times: 10
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-19 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "104565" ; Times: 1
+	Query: "catalognumber:106087" ; Times: 1
+	Query: "ku 84721" ; Times: 1
+	Query: "KU 15637" ; Times: 2
+	Query: "KU 30349" ; Times: 2
+	Query: "105820" ; Times: 1
+	Query: "KU 96520" ; Times: 3
+	Query: "75314" ; Times: 1
+	Query: "KU 30342" ; Times: 2
+	Query: "genus:mycteria institutioncode:KU" ; Times: 1
+	Query: "KU 15245" ; Times: 1
+	Query: "KU 15246" ; Times: 1
+	Query: "genus:bootherium" ; Times: 1
+	Query: "KU 23404" ; Times: 2
+	Query: "catalognumber:95783 institutioncode:KU" ; Times: 1
+	Query: "KU 21747" ; Times: 1
+	Query: "ku 12327" ; Times: 1
+	Query: "genus:leptoptilos institutioncode:KU" ; Times: 4
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:KU" ; Times: 1
+	Query: "KU 15721" ; Times: 1
+	Query: "KU 15720" ; Times: 2
+	Query: "KU 15727" ; Times: 2
+	Query: "75309" ; Times: 1
+	Query: "catalognumber:132234 institutioncode:KU" ; Times: 1
+	Query: "KU 18020" ; Times: 1
+	Query: "KU 19395" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "123043" ; Times: 1
+	Query: "cyclura pinguis" ; Times: 1
+	Query: "specificepithet:muta genus:lagopus institutioncode:KU" ; Times: 1
+	Query: "KU 10136" ; Times: 1
+	Query: "KU 10133" ; Times: 2
+	Query: "KU 10132" ; Times: 1
+	Query: "genus:didelphis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "KU 96982" ; Times: 1
+	Query: "KU 18016" ; Times: 1
+	Query: "KU 19700" ; Times: 2
+	Query: "ku 15240" ; Times: 1
+	Query: "KU 19385" ; Times: 1
+	Query: "KU 19142" ; Times: 1
+	Query: "KU 15719" ; Times: 2
+	Query: "101256" ; Times: 1
+	Query: "proboscidea institutioncode:KU" ; Times: 5
+	Query: "KU 23390" ; Times: 1
+	Query: "143527" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "KU 20289" ; Times: 1
+	Query: "KU 87143" ; Times: 1
+	Query: "134173" ; Times: 1
+	Query: "113300" ; Times: 1
+	Query: "KU 15574" ; Times: 2
+	Query: "KU 19823" ; Times: 2
+	Query: "KU 19171" ; Times: 1
+	Query: "genus:cyclura institutioncode:KU" ; Times: 4
+	Query: "13989" ; Times: 1
+	Query: "KU 18081" ; Times: 1
+	Query: "KU 18006" ; Times: 1
+	Query: "KU 20292" ; Times: 1
+	Query: "KU 15570" ; Times: 2
+	Query: "KU 8564" ; Times: 2
+	Query: "109416" ; Times: 1
+	Query: "111267" ; Times: 1
+	Query: "KU 15770" ; Times: 1
+	Query: "KU 25634" ; Times: 1
+	Query: "genus:phoenicopterus institutioncode:KU" ; Times: 2
+	Query: "elephas institutioncode:KU" ; Times: 5
+	Query: "KU 16012" ; Times: 1
+	Query: "catalognumber:23390 institutioncode:KU" ; Times: 1
+	Query: "(5083) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:132209 institutioncode:KU" ; Times: 1
+	Query: "KU 23392" ; Times: 1
+	Query: "ku 15570" ; Times: 1
+	Query: "ku 15574" ; Times: 1
+	Query: "KU 31141" ; Times: 1
+	Query: "KU 15358" ; Times: 1
+	Query: "KU 15784" ; Times: 2
+	Query: "stegomastodon" ; Times: 1
+	Query: "genus:cervalces" ; Times: 1
+	Query: "family:rallidae institutioncode:KU isfossil:1" ; Times: 1
+	Query: "KU 123657" ; Times: 2
+	Query: "89909" ; Times: 1
+	Query: "1767 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:89907" ; Times: 1
+	Query: "KU 15751" ; Times: 2
+	Query: "KU 15587" ; Times: 3
+	Query: "ku 15774" ; Times: 1
+	Query: "KU 95783" ; Times: 1
+	Query: "ku 15770" ; Times: 1
+	Query: "KU 10977" ; Times: 2
+	Query: "genus:Eutamias" ; Times: 1
+	Query: "genus:pelecanus institutioncode:KU" ; Times: 1
+	Query: "132507" ; Times: 1
+	Query: "catalognumber:98212" ; Times: 2
+	Query: "castoroides" ; Times: 1
+	Query: "KU 25627" ; Times: 1
+	Query: "KU 19104" ; Times: 1
+	Query: "KU 23421" ; Times: 1
+	Query: "KU 23420" ; Times: 1
+	Query: "KU 15293" ; Times: 1
+	Query: "120009" ; Times: 1
+	Query: "ku 92226" ; Times: 1
+	Query: "KU 30339" ; Times: 2
+	Query: "KU 30338" ; Times: 2
+	Query: "KU 12325" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "(132026) institutioncode:KU" ; Times: 2
+	Query: "KU 20316" ; Times: 1
+	Query: "symbos" ; Times: 2
+	Query: "ku 90682" ; Times: 1
+	Query: "KU 10985" ; Times: 3
+	Query: "KU 23418" ; Times: 1
+	Query: "KU 15826" ; Times: 1
+	Query: "bootherium" ; Times: 1
+	Query: "KU 4813" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1359 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: New Zealand ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "stegomastodon" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:KU" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
