@@ -1,0 +1,158 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 333
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 3
+	Country: United States ; Times: 77
+	Country: Puerto Rico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 13
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-22 ; Times: 5
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 11
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 6
+	Date: 2018-05-17 ; Times: 16
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-10 ; Times: 17
+	Date: 2018-05-12 ; Times: 6
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 10979" ; Times: 1
+	Query: "ku 10036" ; Times: 2
+	Query: "Nesophontes edithae" ; Times: 5
+	Query: "133988" ; Times: 1
+	Query: "ku 93510" ; Times: 2
+	Query: "ku 11337" ; Times: 1
+	Query: "KU 96982" ; Times: 1
+	Query: "genus:epicrates institutioncode:KU" ; Times: 1
+	Query: "KU 84721" ; Times: 2
+	Query: "ku 113967" ; Times: 2
+	Query: "71073" ; Times: 1
+	Query: "genus:notiosorex institutioncode:KU" ; Times: 1
+	Query: "genus:cyclura institutioncode:KU" ; Times: 2
+	Query: "ku 17781" ; Times: 2
+	Query: "KU 15346" ; Times: 1
+	Query: "ku 115509" ; Times: 4
+	Query: "ku 115508" ; Times: 2
+	Query: "KU 12359" ; Times: 1
+	Query: "KU 12650" ; Times: 1
+	Query: "ku 93509" ; Times: 3
+	Query: "KU 5932" ; Times: 1
+	Query: "KU 20262" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "KU 93334" ; Times: 2
+	Query: "catalognumber:7927 institutioncode:KU" ; Times: 1
+	Query: "ku 138232" ; Times: 2
+	Query: "ku 116353" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "ku 8053" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "ku 10246" ; Times: 1
+	Query: "ku 17734" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "KU 93506" ; Times: 1
+	Query: "ku 17776" ; Times: 1
+	Query: "KU 92226" ; Times: 1
+	Query: "KU 94118" ; Times: 2
+	Query: "KU 93526" ; Times: 2
+	Query: "ku 131652" ; Times: 4
+	Query: "genus:Lepus class:Mammalia stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; institutioncode:KU" ; Times: 1
+	Query: "KU 14269" ; Times: 1
+	Query: "Caracara institutioncode:KU" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "ku 25669" ; Times: 1
+	Query: "ku 25627" ; Times: 1
+	Query: "Falco mexicanus institutioncode:KU" ; Times: 1
+	Query: "Phyllonycteris major" ; Times: 3
+	Query: "ku 12341" ; Times: 1
+	Query: "ku 15221" ; Times: 1
+	Query: "KU 18006" ; Times: 1
+	Query: "ku 10977" ; Times: 1
+	Query: "ku 15358" ; Times: 1
+	Query: "Spizaetus vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "KU 120287" ; Times: 1
+	Query: "ku 14164" ; Times: 1
+	Query: "catalognumber:95649 institutioncode:KU" ; Times: 1
+	Query: "ku 31141" ; Times: 1
+	Query: "ku 14146" ; Times: 1
+	Query: "KU 7250" ; Times: 2
+	Query: "KU 18089" ; Times: 1
+	Query: "KU 12389" ; Times: 1
+	Query: "ku 12660" ; Times: 1
+	Query: "ku 25423" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "KU 12808" ; Times: 1
+	Query: "ku 92226" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:KU" ; Times: 3
+	Query: "KU 17707" ; Times: 1
+	Query: "KU 96900" ; Times: 1
+	Query: "cyclura pinguis" ; Times: 4
+	Query: "KU 5079" ; Times: 2
+	Query: "specificepithet:striatus genus:Accipiter institutioncode:KU" ; Times: 1
+	Query: "ku 17723" ; Times: 1
+	Query: "ku 10258" ; Times: 1
+	Query: "KU 98891" ; Times: 1
+	Query: "KU 5929" ; Times: 1
+	Query: "KU 17701" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1178 download events in this period)
+Total number of records downloaded: 234
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:arctodus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
