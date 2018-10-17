@@ -1,0 +1,87 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 207
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 4
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 8
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-04 ; Times: 4
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "89544" ; Times: 1
+	Query: "KU 132234" ; Times: 1
+	Query: "genus:eusmilus" ; Times: 1
+	Query: "133024" ; Times: 1
+	Query: "genus:Moropus" ; Times: 2
+	Query: "24926 aves" ; Times: 1
+	Query: "148193" ; Times: 1
+	Query: "wilson 1855" ; Times: 1
+	Query: "catalognumber:21692 institutioncode:KU" ; Times: 1
+	Query: "6070 KU" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1890 year &lt;= 1899 institutioncode:KU" ; Times: 1
+	Query: "gbifdatasetid:5b0cfab4-9145-4fe2-89e3-fcbc294aa5b2" ; Times: 1
+	Query: "KU 100529" ; Times: 1
+	Query: "21292 aves" ; Times: 1
+	Query: "eusmilus" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "136338" ; Times: 1
+	Query: "100529" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "90043" ; Times: 3
+	Query: "100446" ; Times: 1
+	Query: "155904" ; Times: 1
+	Query: "KU 109168" ; Times: 1
+	Query: "121036" ; Times: 1
+	Query: "92002" ; Times: 1
+	Query: "genus:Cardipeltis isfossil:1" ; Times: 1
+	Query: "KU 8563" ; Times: 1
+	Query: "catalognumber:121016" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 977 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Canis latrans institutioncode:KU" ; Times: 2
+
+
+End of report.
