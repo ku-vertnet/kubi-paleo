@@ -1,0 +1,174 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 235
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 18
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 87
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 4
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 20
+	Date: 2018-06-24 ; Times: 5
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-26 ; Times: 7
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 6
+	Date: 2018-06-14 ; Times: 17
+	Date: 2018-06-15 ; Times: 20
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-18 ; Times: 9
+	Date: 2018-06-19 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 34676" ; Times: 1
+	Query: "95500" ; Times: 1
+	Query: "ku 10936" ; Times: 2
+	Query: "KU 69946" ; Times: 1
+	Query: "KU 100901" ; Times: 1
+	Query: "ku 17777" ; Times: 3
+	Query: "95780" ; Times: 5
+	Query: "137077" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "family:phoenicopteridae class:aves institutioncode:KU" ; Times: 1
+	Query: "ku 10976" ; Times: 2
+	Query: "genus:notiosorex institutioncode:KU" ; Times: 1
+	Query: "(20208) institutioncode:KU" ; Times: 1
+	Query: "ku 34721" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "class:Mammalia catalognumber:23002 institutioncode:KU" ; Times: 1
+	Query: "KU 69947" ; Times: 1
+	Query: "KU 129955" ; Times: 2
+	Query: "KU 69949" ; Times: 1
+	Query: "Hippocamelus" ; Times: 1
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "KU 129957" ; Times: 1
+	Query: "KU 102147" ; Times: 2
+	Query: "ku 14038" ; Times: 2
+	Query: "KU 5932" ; Times: 2
+	Query: "catalognumber:21692 institutioncode:KU" ; Times: 1
+	Query: "ku 19177" ; Times: 2
+	Query: "70533" ; Times: 1
+	Query: "ku 138232" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "catalognumber:124437 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:12642 institutioncode:KU" ; Times: 1
+	Query: "KU 21658" ; Times: 2
+	Query: "KU 102149" ; Times: 1
+	Query: "KU 90901" ; Times: 2
+	Query: "64939" ; Times: 1
+	Query: "KU 136807" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "KU 92226" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "KU 132328" ; Times: 1
+	Query: "KU 105932" ; Times: 1
+	Query: "KU 102139" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "catalognumber:16943 institutioncode:KU" ; Times: 1
+	Query: "KU 103544" ; Times: 1
+	Query: "KU 87214" ; Times: 1
+	Query: "KU 10842" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "catalognumber:116162 institutioncode:KU" ; Times: 2
+	Query: "ku 12440" ; Times: 2
+	Query: "KU 101105" ; Times: 1
+	Query: "KU 69951" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "catalognumber:124397 institutioncode:KU" ; Times: 3
+	Query: "70092" ; Times: 1
+	Query: "ku 18940" ; Times: 3
+	Query: "KU 145084" ; Times: 2
+	Query: "catalognumber:10218 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "genus:NOTIOSOREX institutioncode:KU" ; Times: 1
+	Query: "KU 11527" ; Times: 2
+	Query: "Andrias" ; Times: 1
+	Query: "KU 111563" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "catalognumber:12633 institutioncode:KU" ; Times: 1
+	Query: "KU 69952" ; Times: 1
+	Query: "ku 23363" ; Times: 2
+	Query: "KU 18447" ; Times: 3
+	Query: "family:ciconiidae class:aves institutioncode:KU" ; Times: 1
+	Query: "catalognumber:17129 institutioncode:KU" ; Times: 1
+	Query: "KU 5929" ; Times: 3
+	Query: "KU 84848" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:KU" ; Times: 1
+	Query: "numenius borealis" ; Times: 19
+	Query: "genus:heterodon stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "catalognumber:119705 institutioncode:KU" ; Times: 4
+	Query: "ku 19214" ; Times: 2
+	Query: "KU 129954" ; Times: 2
+	Query: "KU 100960" ; Times: 1
+	Query: "hesperornis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1169 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:NOTIOSOREX institutioncode:KU" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "class:Mammalia county:&#34;Pottawatomie&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "alces alces" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+
+
+End of report.
