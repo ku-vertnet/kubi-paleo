@@ -1,0 +1,247 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 1094
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ireland ; Times: 4
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 109
+	Country: Peru ; Times: 4
+	Country: Belgium ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-08 ; Times: 11
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 22
+	Date: 2018-11-04 ; Times: 22
+	Date: 2018-11-02 ; Times: 6
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-21 ; Times: 8
+	Date: 2018-11-20 ; Times: 5
+	Date: 2018-11-23 ; Times: 4
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-29 ; Times: 6
+	Date: 2018-11-28 ; Times: 4
+	Date: 2018-11-18 ; Times: 4
+	Date: 2018-11-19 ; Times: 4
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-13 ; Times: 6
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-15 ; Times: 12
+	Date: 2018-11-16 ; Times: 4
+	Date: 2018-11-17 ; Times: 2
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 10036" ; Times: 3
+	Query: "KU-19351" ; Times: 1
+	Query: "17777 institutioncode:KU" ; Times: 2
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 4
+	Query: "90555" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 4
+	Query: "149918" ; Times: 1
+	Query: "KU-103348" ; Times: 2
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 4
+	Query: "genus:notiosorex institutioncode:KU" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "KU 12368" ; Times: 1
+	Query: "KU 15320" ; Times: 2
+	Query: "genus:Sciuravus specificepithet:sp." ; Times: 4
+	Query: "catalognumber:106401 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:59266" ; Times: 1
+	Query: "KU-60663" ; Times: 2
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 4
+	Query: "KU 17732" ; Times: 1
+	Query: "KU-19338" ; Times: 1
+	Query: "KU 10111" ; Times: 1
+	Query: "KU 120862" ; Times: 3
+	Query: "catalognumber:86232 institutioncode:KU" ; Times: 2
+	Query: "Stenoderma rufum" ; Times: 1
+	Query: "catalognumber:11418 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:vision genus:mustela family:mustelidae order:carnivora class:mammalia (mink OR neovision OR mustela OR vision) AND (NOT ermine NOT erminea)" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "institutioncode:KU catalognumber:(011458 OR 011459 OR 022186 OR 022188 OR 052542 OR 068098 OR 133383 OR 145931 OR 146169 OR 146172 OR 146173 OR 146175 OR 146177 OR 146210 OR 146219 OR 146220 OR 146223 OR 146224 OR 146227 OR 146228 OR 146229 OR 146230 OR 146231 OR 146233 OR 146234 OR 146235 OR 146238 OR 146239 OR 146648 OR 146650 OR 146687 OR 146689 OR 146693 OR 146696 OR 146733 OR 146758 OR 146759 OR 146761 OR 146762 OR 146764 OR 146799 OR 146801 OR 146803 OR 146804 OR 146805 OR 146806 OR 146807 OR 146808 OR 146814 OR 146815 OR 146816 OR 146817 OR 146819 OR 146821 OR 154740 OR 154741 OR 154742 OR 154766 OR 156379 OR 156380 OR 156402 OR 156406 OR 156407 OR 156408 OR 156410 OR 156422 OR 156423 OR 156431 OR 156439 OR 156441 OR 156444 OR 156461 OR 156475 OR 157609) class:mammalia" ; Times: 1
+	Query: "KU-10083" ; Times: 1
+	Query: "140309" ; Times: 2
+	Query: "KU 14164" ; Times: 2
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 4
+	Query: "catalognumber:106402 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:103869 institutioncode:KU" ; Times: 3
+	Query: "institutioncode:KU catalognumber:(11458 OR 11459 OR 22186 OR 22188 OR 52542 OR 68098 OR 133383 OR 145931 OR 146169 OR 146172 OR 146173 OR 146175 OR 146177 OR 146210 OR 146219 OR 146220 OR 146223 OR 146224 OR 146227 OR 146228 OR 146229 OR 146230 OR 146231 OR 146233 OR 146234 OR 146235 OR 146238 OR 146239 OR 146648 OR 146650 OR 146687 OR 146689 OR 146693 OR 146696 OR 146733 OR 146758 OR 146759 OR 146761 OR 146762 OR 146764 OR 146799 OR 146801 OR 146803 OR 146804 OR 146805 OR 146806 OR 146807 OR 146808 OR 146814 OR 146815 OR 146816 OR 146817 OR 146819 OR 146821 OR 154740 OR 154741 OR 154742 OR 154766 OR 156379 OR 156380 OR 156402 OR 156406 OR 156407 OR 156408 OR 156410 OR 156422 OR 156423 OR 156431 OR 156439 OR 156441 OR 156444 OR 156461 OR 156475 OR 157609) class:mammalia" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "genus:Himantopus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Mesogaulus  specificepithet:paniensis" ; Times: 4
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 4
+	Query: "catalognumber:135287" ; Times: 1
+	Query: "catalognumber:106464 institutioncode:KU" ; Times: 2
+	Query: "KU 25669" ; Times: 1
+	Query: "genus:Melanitta class:aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "45122" ; Times: 1
+	Query: "136077" ; Times: 1
+	Query: "89364" ; Times: 1
+	Query: "KU-19327" ; Times: 1
+	Query: "Mustela vision" ; Times: 4
+	Query: "family:Cryptobranchidae institutioncode:KU" ; Times: 1
+	Query: "catalognumber:83475" ; Times: 1
+	Query: "KU 12369" ; Times: 1
+	Query: "KU 19110" ; Times: 3
+	Query: "genus:Spermophilus specificepithet:sp." ; Times: 4
+	Query: "KU 119705" ; Times: 1
+	Query: "catalognumber:86855" ; Times: 1
+	Query: "institutioncode:KU catalognumber:(154740 OR 154741 OR 154742 OR 154766 OR 156379 OR 156380 OR 156402 OR 156406 OR 156407 OR 156408 OR 156410 OR 156422 OR 156423 OR 156431 OR 156439 OR 156441 OR 156444 OR 156461 OR 156475 OR 157609) class:mammalia" ; Times: 1
+	Query: "137507" ; Times: 1
+	Query: "class:Mammalia catalognumber:5756 institutioncode:KU" ; Times: 1
+	Query: "genus:notiosorex isfossil:1" ; Times: 1
+	Query: "catalognumber:40082" ; Times: 1
+	Query: "catalognumber:110615 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:21828 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:25393 institutioncode:KU" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 4
+	Query: "KU 10293" ; Times: 1
+	Query: "specificepithet:vision genus:mustela family:mustelidae order:carnivora class:Mammalia" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:KU" ; Times: 1
+	Query: "KU 99748" ; Times: 1
+	Query: "KU 11337" ; Times: 2
+	Query: "mustela vision" ; Times: 1
+	Query: "KU 15708" ; Times: 1
+	Query: "catalognumber:96515 institutioncode:KU" ; Times: 1
+	Query: "KU 15711" ; Times: 1
+	Query: "institutioncode:KU catalognumber:(10000 OR 10002) class:mammalia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1719 download events in this period)
+Total number of records downloaded: 2048
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: France ; Times: 1
+	Country: United States ; Times: 53
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 7
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 6
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 6
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 7
+	Date: 2018-11-20 ; Times: 4
+	Date: 2018-11-23 ; Times: 2
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 3
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 5
+	Date: 2018-11-12 ; Times: 13
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 7
+	Date: 2018-11-15 ; Times: 14
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "vulpes velox" ; Times: 2
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "genus:Noctilio leporinus" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio" ; Times: 1
+	Query: "chiroptera eptesicus vntype:specimen isfossil:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Lepus californicus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "specificepithet:borealis genus:Numenius stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "family:Viperidae" ; Times: 1
+	Query: "institutioncode:KU catalognumber:(011458 OR 011459 OR 022186 OR 022188 OR 052542 OR 068098 OR 133383 OR 145931 OR 146169 OR 146172 OR 146173 OR 146175 OR 146177 OR 146210 OR 146219 OR 146220 OR 146223 OR 146224 OR 146227 OR 146228 OR 146229 OR 146230 OR 146231 OR 146233 OR 146234 OR 146235 OR 146238 OR 146239 OR 146648 OR 146650 OR 146687 OR 146689 OR 146693 OR 146696 OR 146733 OR 146758 OR 146759 OR 146761 OR 146762 OR 146764 OR 146799 OR 146801 OR 146803 OR 146804 OR 146805 OR 146806 OR 146807 OR 146808 OR 146814 OR 146815 OR 146816 OR 146817 OR 146819 OR 146821 OR 154740 OR 154741 OR 154742 OR 154766 OR 156379 OR 156380 OR 156402 OR 156406 OR 156407 OR 156408 OR 156410 OR 156422 OR 156423 OR 156431 OR 156439 OR 156441 OR 156444 OR 156461 OR 156475 OR 157609) class:mammalia" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "institutioncode:KU catalognumber:(11458 OR 11459 OR 22186 OR 22188 OR 52542 OR 68098 OR 133383 OR 145931 OR 146169 OR 146172 OR 146173 OR 146175 OR 146177 OR 146210 OR 146219 OR 146220 OR 146223 OR 146224 OR 146227 OR 146228 OR 146229 OR 146230 OR 146231 OR 146233 OR 146234 OR 146235 OR 146238 OR 146239 OR 146648 OR 146650 OR 146687 OR 146689 OR 146693 OR 146696 OR 146733 OR 146758 OR 146759 OR 146761 OR 146762 OR 146764 OR 146799 OR 146801 OR 146803 OR 146804 OR 146805 OR 146806 OR 146807 OR 146808 OR 146814 OR 146815 OR 146816 OR 146817 OR 146819 OR 146821 OR 154740 OR 154741 OR 154742 OR 154766 OR 156379 OR 156380 OR 156402 OR 156406 OR 156407 OR 156408 OR 156410 OR 156422 OR 156423 OR 156431 OR 156439 OR 156441 OR 156444 OR 156461 OR 156475 OR 157609) class:mammalia" ; Times: 1
+	Query: "genus:Pteronotus parnellii" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "family:Salamandridae institutioncode:KU" ; Times: 1
+	Query: "vntype:specimen genus:Notiosorex isfossil:1" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "family:Ambystomatidae institutioncode:KU" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "specificepithet:dirus genus:canis basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "genus:Puma isfossil:1" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "Mustela vision" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "family:Cryptobranchidae institutioncode:KU" ; Times: 1
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "institutioncode:KU catalognumber:(154740 OR 154741 OR 154742 OR 154766 OR 156379 OR 156380 OR 156402 OR 156406 OR 156407 OR 156408 OR 156410 OR 156422 OR 156423 OR 156431 OR 156439 OR 156441 OR 156444 OR 156461 OR 156475 OR 157609) class:mammalia" ; Times: 1
+	Query: "genus:notiosorex isfossil:1" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "genus:puma isfossil:1" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (neovision OR vision OR mink)" ; Times: 1
+	Query: "family:Sirenidae institutioncode:KU" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Vulpes velox" ; Times: 2
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Arctodus" ; Times: 1
+
+
+End of report.
