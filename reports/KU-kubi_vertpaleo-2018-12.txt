@@ -1,0 +1,170 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 448
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 61
+	Country: French Guiana ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-13 ; Times: 6
+	Date: 2018-12-11 ; Times: 31
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-27 ; Times: 3
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-14 ; Times: 4
+	Date: 2018-12-04 ; Times: 7
+	Date: 2018-12-02 ; Times: 3
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 15583" ; Times: 1
+	Query: "KU 10036" ; Times: 1
+	Query: "catalognumber:156027 institutioncode:KU" ; Times: 2
+	Query: "KU-19351" ; Times: 2
+	Query: "vntype:specimen specificepithet:lemur hastypestatus:1" ; Times: 1
+	Query: "116272" ; Times: 1
+	Query: "KU 143508" ; Times: 1
+	Query: "136516" ; Times: 1
+	Query: "KU 17741" ; Times: 1
+	Query: "136514" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "KU 17786" ; Times: 1
+	Query: "KU 12693" ; Times: 1
+	Query: "KU 19729" ; Times: 1
+	Query: "catalognumber:156024 institutioncode:KU" ; Times: 2
+	Query: "KU 12358" ; Times: 1
+	Query: "hypertragulus" ; Times: 2
+	Query: "98592" ; Times: 1
+	Query: "KU 23392" ; Times: 1
+	Query: "ku 23654" ; Times: 1
+	Query: "ku 15156" ; Times: 1
+	Query: "105868" ; Times: 1
+	Query: "KU-4248" ; Times: 1
+	Query: "KU 10186" ; Times: 1
+	Query: "ku 15152" ; Times: 1
+	Query: "KU 12398" ; Times: 2
+	Query: "KU-60663" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "ku 17805" ; Times: 1
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "ku 11340" ; Times: 1
+	Query: "KU 17776" ; Times: 1
+	Query: "137081" ; Times: 2
+	Query: "KU 93112" ; Times: 1
+	Query: "KU 17709" ; Times: 1
+	Query: "KU 17770" ; Times: 1
+	Query: "133039" ; Times: 2
+	Query: "122197" ; Times: 1
+	Query: "KU 10145" ; Times: 1
+	Query: "KU-103348" ; Times: 1
+	Query: "136038" ; Times: 1
+	Query: "KU 17797" ; Times: 1
+	Query: "KU-19327" ; Times: 1
+	Query: "KU 23352" ; Times: 1
+	Query: "150267" ; Times: 1
+	Query: "KU 17798" ; Times: 1
+	Query: "ku 6655" ; Times: 1
+	Query: "KU 14164" ; Times: 1
+	Query: "ku 15688" ; Times: 1
+	Query: "KU 12600" ; Times: 1
+	Query: "KU 12383" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "ku 10351" ; Times: 1
+	Query: "102476" ; Times: 1
+	Query: "KU 23532" ; Times: 1
+	Query: "ku 12816" ; Times: 1
+	Query: "KU-110580" ; Times: 1
+	Query: "KU 12389" ; Times: 1
+	Query: "ku 13537" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "catalognumber:142698 institutioncode:KU" ; Times: 2
+	Query: "ku 18187" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "Poebrotherium" ; Times: 1
+	Query: "Hypertragulidae" ; Times: 1
+	Query: "KU 17713" ; Times: 1
+	Query: "KU 136053" ; Times: 1
+	Query: "KU 17701" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 809 download events in this period)
+Total number of records downloaded: 5131
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Indonesia ; Times: 2
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 10
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 9
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 7
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "strigidae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+
+
+End of report.
