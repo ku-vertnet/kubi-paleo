@@ -1,0 +1,166 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 377
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 10
+	Country: Mexico ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 69
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 17
+	Date: 2019-01-26 ; Times: 8
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 4
+	Date: 2019-01-14 ; Times: 14
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 4
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 6
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-27 ; Times: 8
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:phoenicopteridae class:aves institutioncode:KU" ; Times: 2
+	Query: "92740" ; Times: 2
+	Query: "SP 12543" ; Times: 1
+	Query: "KU 104082" ; Times: 2
+	Query: "KU 104099" ; Times: 2
+	Query: "vntype:specimen catalognumber:18043 institutioncode:KU" ; Times: 1
+	Query: "89347" ; Times: 1
+	Query: "KU 104088" ; Times: 2
+	Query: "KU 104089" ; Times: 2
+	Query: "catalognumber:100753 institutioncode:KU" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "catalognumber:98140" ; Times: 1
+	Query: "catalognumber:100751 institutioncode:KU" ; Times: 1
+	Query: "109133" ; Times: 1
+	Query: "catalognumber:100752 institutioncode:KU" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "batoidea" ; Times: 6
+	Query: "genus:ardea family:ardeidae class:aves institutioncode:KU" ; Times: 1
+	Query: "catalognumber:100754 institutioncode:KU" ; Times: 1
+	Query: "116293" ; Times: 1
+	Query: "catalognumber:100749 institutioncode:KU" ; Times: 1
+	Query: "KU 8886" ; Times: 1
+	Query: "9492 class:Aves institutioncode:KU" ; Times: 1
+	Query: "93403" ; Times: 1
+	Query: "catalognumber:100750 institutioncode:KU" ; Times: 1
+	Query: "103325" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "catalognumber:17776 institutioncode:KU" ; Times: 1
+	Query: "137270" ; Times: 1
+	Query: "6502 class:Aves institutioncode:KU" ; Times: 1
+	Query: "catalognumber:100748 institutioncode:KU" ; Times: 1
+	Query: "KU 17709" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;montana&#34;" ; Times: 2
+	Query: "137586" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "xenicus" ; Times: 1
+	Query: "92210" ; Times: 3
+	Query: "(dermoptera)" ; Times: 2
+	Query: "6502 institutioncode:KU" ; Times: 2
+	Query: "KU 104101" ; Times: 2
+	Query: "catalognumber:136503" ; Times: 1
+	Query: "108252" ; Times: 2
+	Query: "KU 107630" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "133045" ; Times: 1
+	Query: "KU 104055" ; Times: 2
+	Query: "genus:notiosorex institutioncode:KU" ; Times: 1
+	Query: "KU 14792" ; Times: 1
+	Query: "KU 104083" ; Times: 2
+	Query: "81094" ; Times: 1
+	Query: "Euceratherium" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "catalognumber:100747 institutioncode:KU" ; Times: 1
+	Query: "108399" ; Times: 1
+	Query: "catalognumber:106128" ; Times: 1
+	Query: "135527" ; Times: 1
+	Query: "genus:phoenicopterus class:aves institutioncode:KU" ; Times: 1
+	Query: "genus:Phenacomys institutioncode:KU" ; Times: 1
+	Query: "KU 140993" ; Times: 1
+	Query: "dermoptera" ; Times: 18
+	Query: "specificepithet:lithographica genus:Archaeopteryx isfossil:1" ; Times: 1
+	Query: "70516" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 962 download events in this period)
+Total number of records downloaded: 7225
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 85
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 23
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-30 ; Times: 15
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-31 ; Times: 21
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 35
+	Query: "class:Mammalia county:&#34;polk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "genus:notiosorex institutioncode:KU" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "specificepithet:pennsylvanicus genus:microtus institutioncode:KU" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Dermoptera" ; Times: 22
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 1
+
+
+End of report.
