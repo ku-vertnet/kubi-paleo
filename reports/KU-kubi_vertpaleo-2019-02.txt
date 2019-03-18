@@ -1,0 +1,138 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 207
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 74
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 33
+	Date: 2019-02-03 ; Times: 9
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-14 ; Times: 4
+	Date: 2019-02-04 ; Times: 6
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia county:&#34;Knox&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:13782 institutioncode:KU" ; Times: 1
+	Query: "KU-18447" ; Times: 2
+	Query: "110354 institutioncode:KU" ; Times: 2
+	Query: "(Ichthyornis)" ; Times: 4
+	Query: "131974 institutioncode:KU" ; Times: 2
+	Query: "KU-105932" ; Times: 2
+	Query: "genus:NOTIOSOREX institutioncode:KU" ; Times: 1
+	Query: "111390 institutioncode:KU" ; Times: 2
+	Query: "143809" ; Times: 1
+	Query: "98332 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "119683 institutioncode:KU" ; Times: 2
+	Query: "KU-11527" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "99118 institutioncode:KU" ; Times: 2
+	Query: "132020 institutioncode:KU" ; Times: 2
+	Query: "85469" ; Times: 1
+	Query: "94076" ; Times: 1
+	Query: "140993" ; Times: 1
+	Query: "128209 institutioncode:KU" ; Times: 2
+	Query: "120702 institutioncode:KU" ; Times: 2
+	Query: "order:Squamata county:&#34;Knox&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "10325 institutioncode:KU" ; Times: 3
+	Query: "(Chelonia mydas) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:32232 institutioncode:KU" ; Times: 1
+	Query: "KU-56171" ; Times: 1
+	Query: "14058 institutioncode:KU" ; Times: 1
+	Query: "21433 class:aves institutioncode:KU" ; Times: 1
+	Query: "KU-56175" ; Times: 1
+	Query: "142548" ; Times: 1
+	Query: "KU 105932" ; Times: 1
+	Query: "KU-5929" ; Times: 1
+	Query: "142407" ; Times: 1
+	Query: "catalognumber:90836 institutioncode:KU" ; Times: 2
+	Query: "107820" ; Times: 1
+	Query: "catalognumber:16739 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "90935" ; Times: 1
+	Query: "KU-90109" ; Times: 1
+	Query: "122091 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:32233 institutioncode:KU" ; Times: 1
+	Query: "114523 institutioncode:KU" ; Times: 2
+	Query: "98883 institutioncode:KU" ; Times: 2
+	Query: "94324" ; Times: 1
+	Query: "121808 institutioncode:KU" ; Times: 2
+	Query: "KU 12276" ; Times: 1
+	Query: "KU-56174" ; Times: 1
+	Query: "21255 class:aves institutioncode:KU" ; Times: 1
+	Query: "116405 institutioncode:KU" ; Times: 2
+	Query: "120697 institutioncode:KU" ; Times: 2
+	Query: "class:aves (27616) institutioncode:KU" ; Times: 1
+	Query: "2240 class:aves institutioncode:KU" ; Times: 1
+	Query: "92705" ; Times: 1
+	Query: "93545 institutioncode:KU" ; Times: 2
+	Query: "103886" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1227 download events in this period)
+Total number of records downloaded: 3520
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 3
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "genus:Camelops isfossil:1" ; Times: 1
+	Query: "(Chelonia mydas) institutioncode:KU" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "class:aves institutioncode:KU" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Mammalia county:&#34;Coleman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
