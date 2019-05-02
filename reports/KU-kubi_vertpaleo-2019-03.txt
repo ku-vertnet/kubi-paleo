@@ -1,0 +1,136 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 162
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 7
+	Country: Mexico ; Times: 35
+	Country: France ; Times: 1
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-31 ; Times: 5
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 5
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-24 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 32
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 5
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-29 ; Times: 5
+	Date: 2019-03-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:105409 institutioncode:KU" ; Times: 4
+	Query: "70265" ; Times: 2
+	Query: "KU 86995" ; Times: 2
+	Query: "84104" ; Times: 1
+	Query: "70247" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "catalognumber:98880 institutioncode:KU" ; Times: 4
+	Query: "KU 86512" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "KU 12108" ; Times: 1
+	Query: "poebrotherium" ; Times: 3
+	Query: "catalognumber:90591 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "121679" ; Times: 1
+	Query: "class:Mammalia catalognumber:124022 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:90893" ; Times: 1
+	Query: "140994" ; Times: 1
+	Query: "KU 86433" ; Times: 2
+	Query: "catalognumber:90894" ; Times: 1
+	Query: "KU 23676" ; Times: 2
+	Query: "diadectes" ; Times: 1
+	Query: "boker" ; Times: 1
+	Query: "KU 86865" ; Times: 2
+	Query: "böker" ; Times: 1
+	Query: "KU 143086" ; Times: 1
+	Query: "90727" ; Times: 1
+	Query: "catalognumber:106024 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:75184 institutioncode:KU" ; Times: 4
+	Query: "KU 140994" ; Times: 2
+	Query: "catalognumber:90667 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:98889 institutioncode:KU" ; Times: 2
+	Query: "Reptilia Alabama montgomery" ; Times: 1
+	Query: "KU 140993" ; Times: 1
+	Query: "KU 16440" ; Times: 1
+	Query: "KU 86983" ; Times: 1
+	Query: "90085" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "catalognumber:92627 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:93838" ; Times: 1
+	Query: "Elasmodontomys" ; Times: 1
+	Query: "pteranodon" ; Times: 1
+	Query: "137524" ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "20284" ; Times: 1
+	Query: "catalognumber:106025 institutioncode:KU" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "catalognumber:15109 institutioncode:KU" ; Times: 1
+	Query: "Gerrhonotus institutioncode:KU" ; Times: 2
+	Query: "94387" ; Times: 1
+	Query: "KU 20686" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "catalognumber:95578 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "KU 86922" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "catalognumber:105109 institutioncode:KU" ; Times: 2
+	Query: "KU 9610" ; Times: 1
+	Query: "catalognumber:100319 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:5542 institutioncode:KU" ; Times: 2
+	Query: "order:Rodentia catalognumber:124022 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "92210" ; Times: 2
+	Query: "catalognumber:90581 institutioncode:KU" ; Times: 5
+	Query: "103378" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1281 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "puma concolor" ; Times: 1
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
