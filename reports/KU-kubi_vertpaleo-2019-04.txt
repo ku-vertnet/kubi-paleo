@@ -1,0 +1,187 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 327
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 29
+	Country: United States ; Times: 69
+	Country: Mexico ; Times: 24
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-13 ; Times: 6
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 12
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 17
+	Date: 2019-04-01 ; Times: 26
+	Date: 2019-04-24 ; Times: 8
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 10
+	Date: 2019-04-09 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:89070 institutioncode:KU" ; Times: 2
+	Query: "(16548) institutioncode:KU" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "institutioncode:ku 143417" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "(16071) institutioncode:KU" ; Times: 1
+	Query: "KU 17776" ; Times: 2
+	Query: "55268" ; Times: 1
+	Query: "catalognumber:5657 institutioncode:KU" ; Times: 2
+	Query: "139554" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "100319 KU" ; Times: 2
+	Query: "institutioncode:ku 144232" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "institutioncode:ku 4743" ; Times: 3
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "135136" ; Times: 1
+	Query: "(12043) institutioncode:KU" ; Times: 1
+	Query: "class:Reptilia county:&#34;Pawnee&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "103378" ; Times: 1
+	Query: "catalognumber:98210 institutioncode:KU" ; Times: 1
+	Query: "(11987) institutioncode:KU" ; Times: 1
+	Query: "137536" ; Times: 1
+	Query: "KU 6933" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "92627 KU" ; Times: 5
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "137236" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "5143 vntype:specimen institutioncode:KU" ; Times: 2
+	Query: "(132030) institutioncode:KU" ; Times: 2
+	Query: "98880 KU" ; Times: 2
+	Query: "ku 10756" ; Times: 2
+	Query: "64422" ; Times: 1
+	Query: "75184 KU" ; Times: 2
+	Query: "135690" ; Times: 1
+	Query: "(35027) institutioncode:KU" ; Times: 1
+	Query: "137546" ; Times: 2
+	Query: "order:Rodentia class:Mammalia catalognumber:103830 institutioncode:KU" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "115753" ; Times: 1
+	Query: "(30078) institutioncode:KU" ; Times: 2
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "catalognumber:106679 institutioncode:KU" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "137246" ; Times: 1
+	Query: "89998 KU" ; Times: 2
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "catalognumber:142330" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:KU" ; Times: 1
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "catalognumber:98201 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:115762 institutioncode:KU" ; Times: 1
+	Query: "gbifdatasetid:5b0cfab4-9145-4fe2-89e3-fcbc294aa5b2" ; Times: 1
+	Query: "(30061) institutioncode:KU" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "catalognumber:143207 institutioncode:KU" ; Times: 1
+	Query: "KU 105932" ; Times: 1
+	Query: "KU 109322" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "105409 KU" ; Times: 3
+	Query: "catalognumber:89021 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:18530 institutioncode:KU" ; Times: 1
+	Query: "ku 23086" ; Times: 1
+	Query: "135099" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jefferson&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "105109 KU" ; Times: 2
+	Query: "115755" ; Times: 1
+	Query: "class:Mammalia catalognumber:23002 institutioncode:KU" ; Times: 2
+	Query: "ku 5791" ; Times: 2
+	Query: "137989" ; Times: 2
+	Query: "KU 10186" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "ku 8886" ; Times: 2
+	Query: "119949" ; Times: 1
+	Query: "(15939) institutioncode:KU" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "90581 KU" ; Times: 5
+	Query: "KU 5143" ; Times: 1
+	Query: "genus:Rallus family:Rallidae class:aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "catalognumber:88914 institutioncode:KU" ; Times: 2
+	Query: "KU 89428" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "catalognumber:121957 institutioncode:KU" ; Times: 1
+	Query: "KU 23169" ; Times: 2
+	Query: "genus:amphiuma basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "140271" ; Times: 1
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "119953" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1263 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
