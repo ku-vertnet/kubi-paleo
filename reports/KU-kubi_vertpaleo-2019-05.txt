@@ -1,0 +1,124 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Honduras ; Times: 6
+	Country: Mexico ; Times: 23
+	Country: Denmark ; Times: 8
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-03 ; Times: 22
+	Date: 2019-05-29 ; Times: 2
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-01 ; Times: 14
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-05 ; Times: 8
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 6
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 17620" ; Times: 1
+	Query: "catalognumber:105409 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:21451 institutioncode:KU" ; Times: 1
+	Query: "kU 23654" ; Times: 1
+	Query: "KU 99262" ; Times: 1
+	Query: "catalognumber:83059 institutioncode:KU" ; Times: 1
+	Query: "KU 103753" ; Times: 1
+	Query: "catalognumber:9889 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:103221 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:108596 institutioncode:KU" ; Times: 1
+	Query: "institutioncode:KU 3339" ; Times: 1
+	Query: "KU 12634" ; Times: 2
+	Query: "ku 93509" ; Times: 1
+	Query: "catalognumber:75184 institutioncode:KU" ; Times: 4
+	Query: "genus:myocastor institutioncode:KU" ; Times: 2
+	Query: "catalognumber:100319 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:98889 institutioncode:KU" ; Times: 3
+	Query: "KU 88543" ; Times: 2
+	Query: "catalognumber:65373 institutioncode:KU" ; Times: 2
+	Query: "KU 21317" ; Times: 1
+	Query: "catalognumber:103220 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "KU 21351" ; Times: 1
+	Query: "KU 21333" ; Times: 1
+	Query: "ku 17582" ; Times: 1
+	Query: "KU 98359" ; Times: 1
+	Query: "KU 139195" ; Times: 2
+	Query: "ku-90109" ; Times: 1
+	Query: "KU 63219" ; Times: 2
+	Query: "KU 88544" ; Times: 2
+	Query: "KU 18105" ; Times: 2
+	Query: "ku 24404" ; Times: 2
+	Query: "59408" ; Times: 1
+	Query: "KU 143929" ; Times: 2
+	Query: "KU 135175" ; Times: 2
+	Query: "KU 17674" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "catalognumber:92627 institutioncode:KU" ; Times: 2
+	Query: "genus:Graptemys stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "catalognumber:105109 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:121653 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:113880 institutioncode:KU" ; Times: 1
+	Query: "ku 17555" ; Times: 1
+	Query: "catalognumber:90581 institutioncode:KU" ; Times: 3
+	Query: "83059" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 940 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 3
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "genus:Ambystoma hastypestatus:1" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+
+
+End of report.
