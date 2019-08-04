@@ -1,0 +1,208 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 914
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 120
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Denmark ; Times: 4
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 13
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-12 ; Times: 11
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 23
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-08 ; Times: 29
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-24 ; Times: 9
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-29 ; Times: 7
+	Date: 2019-07-02 ; Times: 6
+	Date: 2019-07-05 ; Times: 6
+	Date: 2019-07-04 ; Times: 5
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "2874 ku" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "genus:Tetonius specificepithet:sp" ; Times: 1
+	Query: "KU 81082" ; Times: 1
+	Query: "137095" ; Times: 1
+	Query: "107251" ; Times: 1
+	Query: "vntype:specimen catalognumber:436 institutioncode:KU" ; Times: 1
+	Query: "25615 class:aves institutioncode:KU" ; Times: 1
+	Query: "KU 85517" ; Times: 3
+	Query: "115894" ; Times: 1
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 1
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "KU 115894" ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 2
+	Query: "genus:Protosciurus " ; Times: 2
+	Query: "class:mammalia catalognumber:144096 institutioncode:KU" ; Times: 1
+	Query: "KU 55292" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Rapamys" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sinensis" ; Times: 1
+	Query: "KU 85117" ; Times: 2
+	Query: "KU 140165" ; Times: 1
+	Query: "KU 140167" ; Times: 2
+	Query: "KU 94188" ; Times: 1
+	Query: "genus:smilodon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:KU" ; Times: 1
+	Query: "KU 110338" ; Times: 1
+	Query: "KU 119214" ; Times: 1
+	Query: "KU 90794" ; Times: 1
+	Query: "genus:Miospermophilus" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:KU" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "KU 134689" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "genus:Cantius specificepithet:sp." ; Times: 1
+	Query: "ku 14767" ; Times: 1
+	Query: "genus:Brachychampsa specificepithet:montana" ; Times: 1
+	Query: "KU 536" ; Times: 1
+	Query: "KU 88767" ; Times: 1
+	Query: "genus:Epicyon" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "KU 120293" ; Times: 1
+	Query: "KU 106348" ; Times: 1
+	Query: "ku 14791" ; Times: 1
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:KU" ; Times: 1
+	Query: "genus:Sciurus specificepithet:sp." ; Times: 1
+	Query: "25626 class:aves institutioncode:KU" ; Times: 1
+	Query: "KU 89392" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "KU 110318" ; Times: 1
+	Query: "catalognumber:94512 institutioncode:KU" ; Times: 1
+	Query: "genus:Mesogaulus  specificepithet:paniensis" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana institutioncode:KU" ; Times: 1
+	Query: "KU 55462" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Plastomenus" ; Times: 1
+	Query: "KU 88492" ; Times: 1
+	Query: "KU 106352" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "KU 88551" ; Times: 1
+	Query: "25591 class:aves institutioncode:KU" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:KU" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 2
+	Query: "25691 class:aves institutioncode:KU" ; Times: 1
+	Query: "genus:Limnopus" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "KU 5752" ; Times: 2
+	Query: "99109" ; Times: 1
+	Query: "98770 institutioncode:KU" ; Times: 1
+	Query: "KU 63835" ; Times: 1
+	Query: "KU 110302" ; Times: 1
+	Query: "genus:Limnoecus" ; Times: 1
+	Query: "59041" ; Times: 1
+	Query: "KU 110266" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "25776 class:aves institutioncode:KU" ; Times: 1
+	Query: "KU 119479" ; Times: 1
+	Query: "catalognumber:1166 institutioncode:KU" ; Times: 1
+	Query: "genus:Cottus specificepithet:extensus" ; Times: 1
+	Query: "KU 155894" ; Times: 1
+	Query: "genus:Absarokius specificepithet:sp." ; Times: 1
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+	Query: "KU 55440" ; Times: 1
+	Query: "KU 55447" ; Times: 1
+	Query: "132114" ; Times: 1
+	Query: "KU 93627" ; Times: 1
+	Query: "KU 110278" ; Times: 1
+	Query: "KU 110279" ; Times: 1
+	Query: "KU 98613" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:KU" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:nigridens" ; Times: 1
+	Query: "specificepithet:bison genus:Bison institutioncode:KU" ; Times: 1
+	Query: "KU 67594" ; Times: 1
+	Query: "genus:Tetonius specificepithet:sp." ; Times: 1
+	Query: "ku 16918" ; Times: 2
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "25596 class:aves institutioncode:KU" ; Times: 1
+	Query: "KU 94159" ; Times: 1
+	Query: "117916" ; Times: 1
+	Query: "KU 88668" ; Times: 1
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "genus:Equus specificepithet:sp." ; Times: 1
+	Query: "ku 135433" ; Times: 1
+	Query: "Osteostraci" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "KU 5780" ; Times: 2
+	Query: "genus:Tyrannosaurus isfossil:1" ; Times: 2
+	Query: "KU 65025" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "KU 92115" ; Times: 1
+	Query: "KU 92114" ; Times: 1
+	Query: "vntype:specimen catalognumber:17552 institutioncode:KU" ; Times: 1
+	Query: "KU 121551" ; Times: 1
+	Query: "ku 135432" ; Times: 1
+	Query: "25711 class:aves institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 985 download events in this period)
+Total number of records downloaded: 417
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Peru ; Times: 1
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 4
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:KU" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
