@@ -1,0 +1,163 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 551
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 76
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 16
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-04 ; Times: 8
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 23
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-22 ; Times: 6
+	Date: 2019-08-23 ; Times: 8
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 3
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-16 ; Times: 5
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-14 ; Times: 4
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-10 ; Times: 13
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 1
+	Query: "catalognumber:81088 institutioncode:KU" ; Times: 1
+	Query: "(114079) institutioncode:KU" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "KU 132030" ; Times: 1
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 1
+	Query: "115366" ; Times: 3
+	Query: "KU 143401" ; Times: 2
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "KU 110784" ; Times: 1
+	Query: "142736" ; Times: 1
+	Query: "(98424) institutioncode:KU" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "106348" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 1
+	Query: "genus:Spermophilus institutioncode:KU" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "catalognumber:19407 institutioncode:KU" ; Times: 1
+	Query: "27604 class:aves institutioncode:KU" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "KU-19932" ; Times: 1
+	Query: "KU 116351" ; Times: 2
+	Query: "KU 107279" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "ku 11694" ; Times: 1
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "142826" ; Times: 3
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "specificepithet:browni class:amphibia (browni)" ; Times: 1
+	Query: "KU 106348" ; Times: 3
+	Query: "gbifdatasetid:5b0cfab4-9145-4fe2-89e3-fcbc294aa5b2" ; Times: 1
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "142824" ; Times: 3
+	Query: "KU 101537" ; Times: 2
+	Query: "KU 110790" ; Times: 1
+	Query: "KU 89638" ; Times: 1
+	Query: "129791" ; Times: 1
+	Query: "115365" ; Times: 1
+	Query: "129974" ; Times: 2
+	Query: "numenius borealis" ; Times: 2
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 1
+	Query: "KU 120135" ; Times: 1
+	Query: "catalognumber:134811 institutioncode:KU" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "Ectopistes migratorius vntype:specimen year &gt;= 1910" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "100361" ; Times: 1
+	Query: "KU 110318" ; Times: 2
+	Query: "catalognumber:19417 institutioncode:KU" ; Times: 2
+	Query: "108252" ; Times: 1
+	Query: "KU 143459" ; Times: 2
+	Query: "Bootherium" ; Times: 2
+	Query: "genus:Nothocyon specificepithet:lemur" ; Times: 1
+	Query: "KU 126128" ; Times: 1
+	Query: "27614 class:aves institutioncode:KU" ; Times: 1
+	Query: "KU 111214" ; Times: 1
+	Query: "KU-115365" ; Times: 1
+	Query: "catalognumber:87959 institutioncode:KU" ; Times: 2
+	Query: "142853" ; Times: 2
+	Query: "KU 120676" ; Times: 4
+	Query: "KU 55462" ; Times: 1
+	Query: "catalognumber:5032 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:89473 institutioncode:KU" ; Times: 1
+	Query: "KU 138616" ; Times: 4
+	Query: "genus:Mesogaulus  specificepithet:paniensis" ; Times: 1
+	Query: "class:Reptilia institutioncode:KU year&gt;=2015 year&lt;=2019" ; Times: 1
+	Query: "KU 110338" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "KU 129791" ; Times: 1
+	Query: "KU 77016" ; Times: 2
+	Query: "ku 11709" ; Times: 2
+	Query: "KU 141579" ; Times: 2
+	Query: "class:aves (27616) institutioncode:KU" ; Times: 1
+	Query: "KU 106352" ; Times: 1
+	Query: "KU 12155" ; Times: 1
+	Query: "KU 120097" ; Times: 4
+	Query: "teratornis" ; Times: 1
+	Query: "KU 142217" ; Times: 1
+	Query: "KU 121546" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1034 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Bolivia ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepus californicus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
