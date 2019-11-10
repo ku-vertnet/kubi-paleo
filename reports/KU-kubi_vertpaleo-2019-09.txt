@@ -1,0 +1,178 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 977
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 115
+	Country: Sweden ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 5
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 5
+	Date: 2019-09-06 ; Times: 9
+	Date: 2019-09-05 ; Times: 6
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 3
+	Date: 2019-09-25 ; Times: 6
+	Date: 2019-09-24 ; Times: 11
+	Date: 2019-09-27 ; Times: 23
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-28 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "catalognumber:1114 institutioncode:ku" ; Times: 2
+	Query: "catalognumber:1925 institutioncode:ku" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Querquedula integra" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "catalognumber:1138 institutioncode:ku" ; Times: 1
+	Query: "KU 6517" ; Times: 2
+	Query: "143747" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "archaeopteryx" ; Times: 1
+	Query: "115807" ; Times: 1
+	Query: "ku 90034" ; Times: 1
+	Query: "141412" ; Times: 1
+	Query: "KU 40166" ; Times: 4
+	Query: "136325" ; Times: 1
+	Query: "thompsoni institutioncode:KU" ; Times: 1
+	Query: "KU 87711" ; Times: 1
+	Query: "genus:eumys collectioncode:KUVP institutioncode:KU" ; Times: 1
+	Query: "KU 134854" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "notiosorex jacksoni" ; Times: 1
+	Query: "KU 143556" ; Times: 2
+	Query: "catalognumber:90217 institutioncode:KU" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "catalognumber:2805 institutioncode:KU" ; Times: 2
+	Query: "class:Osteichthyes institutioncode:KU" ; Times: 2
+	Query: "KU 2831" ; Times: 4
+	Query: "22581 KU" ; Times: 2
+	Query: "catalognumber:19542 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "catalognumber:2673 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:2670 institutioncode:KU" ; Times: 2
+	Query: "KU 66938" ; Times: 1
+	Query: "genus:Triceratops isfossil:1" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Microtus pennsylvanicus 1977" ; Times: 1
+	Query: "ku 90176" ; Times: 1
+	Query: "KU 90176" ; Times: 1
+	Query: "catalognumber:6517 institutioncode:KU" ; Times: 1
+	Query: "KU 5294" ; Times: 1
+	Query: "KU 36117" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "136319" ; Times: 1
+	Query: "catalognumber:1236 institutioncode:ku" ; Times: 2
+	Query: "genus:Baiomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "KU 23034" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "catalognumber:2808 institutioncode:KU" ; Times: 2
+	Query: "gbifdatasetid:5b0cfab4-9145-4fe2-89e3-fcbc294aa5b2" ; Times: 1
+	Query: "catalognumber:2679 institutioncode:KU" ; Times: 2
+	Query: "67424" ; Times: 1
+	Query: "Dendrochen robusta" ; Times: 1
+	Query: "KU 90334" ; Times: 1
+	Query: "ku 143436" ; Times: 1
+	Query: "Bootherium" ; Times: 1
+	Query: "KU 67424" ; Times: 2
+	Query: "catalognumber:87012 institutioncode:KU" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "catalognumber:2804 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:2667 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "Microtus pennsylvanicus 1987" ; Times: 1
+	Query: "Microtus pennsylvanicus 1983" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "Microtus pennsylvanicus 1973" ; Times: 1
+	Query: "Microtus pennsylvanicus 1974" ; Times: 1
+	Query: "catalognumber:69590 institutioncode:ku" ; Times: 3
+	Query: "Microtus pennsylvanicus 1976" ; Times: 1
+	Query: "KU 2464" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Cygnus hibbardi" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "catalognumber:15184 institutioncode:KU" ; Times: 1
+	Query: "Microtus pennsylvanicus 1999" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "catalognumber:2750 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:1137 institutioncode:ku" ; Times: 2
+	Query: "catalognumber:1237 institutioncode:ku" ; Times: 1
+	Query: "KU 2669" ; Times: 2
+	Query: "ku 93202" ; Times: 1
+	Query: "catalognumber:1233 institutioncode:ku" ; Times: 2
+	Query: "bootherium" ; Times: 1
+	Query: "67501" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1073 download events in this period)
+Total number of records downloaded: 996
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Brunei ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34; institutioncode:KU" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "notiosorex jacksoni" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
