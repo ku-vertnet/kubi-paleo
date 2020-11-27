@@ -1,0 +1,219 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 633
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 176
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Kazakhstan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-21 ; Times: 70
+	Date: 2020-01-20 ; Times: 16
+	Date: 2020-01-23 ; Times: 5
+	Date: 2020-01-08 ; Times: 10
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 16
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-31 ; Times: 21
+	Date: 2020-01-30 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5348 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:8467 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:105919 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:49667 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:94368 institutioncode:KU" ; Times: 2
+	Query: "109191" ; Times: 1
+	Query: "catalognumber:84512 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:100441 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "catalognumber:84540 institutioncode:KU" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "catalognumber:126783 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "105377" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 2
+	Query: "111121" ; Times: 1
+	Query: "catalognumber:49666 institutioncode:KU" ; Times: 2
+	Query: "98368" ; Times: 1
+	Query: "catalognumber:20804 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:132279 institutioncode:KU" ; Times: 1
+	Query: "115966" ; Times: 1
+	Query: "catalognumber:84514 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:84386 institutioncode:KU" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "catalognumber:137618 institutioncode:KU" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 3
+	Query: "116798" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "catalognumber:22826 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:106171 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Rana institutioncode:KU" ; Times: 1
+	Query: "124065" ; Times: 2
+	Query: "catalognumber:133989 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:135599 institutioncode:KU" ; Times: 5
+	Query: "catalognumber:133992 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:68128 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:140424 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:americana genus:Grus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:93061 institutioncode:KU" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "catalognumber:129706 institutioncode:KU" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "catalognumber:16771 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:84531 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:100439 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:94466 institutioncode:KU" ; Times: 1
+	Query: "119592" ; Times: 1
+	Query: "catalognumber:131614 institutioncode:ku" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "catalognumber:84543 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:cognatus genus:Bufo institutioncode:KU" ; Times: 1
+	Query: "catalognumber:94512 institutioncode:KU" ; Times: 1
+	Query: "family:varanidae institutioncode:KU" ; Times: 2
+	Query: "specificepithet:hemiophrys genus:Bufo institutioncode:KU" ; Times: 1
+	Query: "116799" ; Times: 1
+	Query: "ku 113213" ; Times: 1
+	Query: "catalognumber:134710" ; Times: 1
+	Query: "catalognumber:8458 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:27836 institutioncode:KU" ; Times: 3
+	Query: "catalognumber:5328 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:84534 institutioncode:KU" ; Times: 2
+	Query: "ku 23185" ; Times: 2
+	Query: "110205" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "catalognumber:69599 institutioncode:KU" ; Times: 1
+	Query: "KU 89084" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "catalognumber:106165 institutioncode:KU" ; Times: 2
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "catalognumber:5341 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:23814 institutioncode:KU" ; Times: 1
+	Query: "102707" ; Times: 1
+	Query: "88562 institutioncode:KU" ; Times: 1
+	Query: "ku 132209" ; Times: 1
+	Query: "catalognumber:100442 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:84524 institutioncode:KU" ; Times: 2
+	Query: "125740" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "catalognumber:84546 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:84553 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:KU" ; Times: 1
+	Query: "143785" ; Times: 1
+	Query: "dermoptera" ; Times: 27
+	Query: "catalognumber:84549 institutioncode:KU" ; Times: 2
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "catalognumber:23596 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:hoyi genus:sorex institutioncode:KU" ; Times: 2
+	Query: "genus:Antilocapra stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "catalognumber:17741 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:69601 institutioncode:KU" ; Times: 2
+	Query: "Pulsatrix arredondoi" ; Times: 2
+	Query: "catalognumber:94371 institutioncode:KU" ; Times: 2
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "116269" ; Times: 1
+	Query: "catalognumber:92750 institutioncode:KU" ; Times: 2
+	Query: "family:Varanidae institutioncode:KU" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "catalognumber:84530 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:23080 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:84533 institutioncode:KU" ; Times: 2
+	Query: "140174" ; Times: 1
+	Query: "catalognumber:131602 institutioncode:ku" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "catalognumber:68077 institutioncode:KU" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "catalognumber:98072 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:3559 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:27832 institutioncode:KU" ; Times: 2
+	Query: "97174" ; Times: 1
+	Query: "catalognumber:94370 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:spinulosus genus:Bufo institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1584 download events in this period)
+Total number of records downloaded: 5856
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:KU hastypestatus:1" ; Times: 1
+	Query: "vntype:specimen institutioncode:KU hastypestatus:1" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "genus:Antilocapra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "genus:Morganucodon" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "genus:Terrapene institutioncode:KU" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+
+
+End of report.
