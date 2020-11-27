@@ -1,0 +1,202 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 322
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Czechia ; Times: 7
+	Country: United States ; Times: 63
+	Country: Sweden ; Times: 1
+	Country: Ireland ; Times: 19
+	Country: Hong Kong ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-22 ; Times: 7
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 31
+	Date: 2020-05-19 ; Times: 8
+	Date: 2020-05-10 ; Times: 10
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 9
+	Date: 2020-05-15 ; Times: 4
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 15
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 10
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 7
+	Date: 2020-05-02 ; Times: 9
+	Date: 2020-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 15583" ; Times: 2
+	Query: "catalognumber:13601 institutioncode:KU" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "KUBI 1607" ; Times: 2
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "KUBI 1609" ; Times: 1
+	Query: "KUBI 1608" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "KUBI 124298" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "catalognumber:5605 institutioncode:KU" ; Times: 2
+	Query: "KU 11150" ; Times: 2
+	Query: "124265" ; Times: 1
+	Query: "KUBI 1612" ; Times: 13
+	Query: "65127" ; Times: 1
+	Query: "KUBI 1610" ; Times: 1
+	Query: "156117" ; Times: 1
+	Query: "KUBI 86244" ; Times: 2
+	Query: "64968" ; Times: 1
+	Query: "catalognumber:5336 institutioncode:KU" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "KU 21590" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "10041 sorex" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "KUBI 87789" ; Times: 3
+	Query: "136482" ; Times: 1
+	Query: "KU 8577" ; Times: 2
+	Query: "119648" ; Times: 1
+	Query: "KUBI 1437" ; Times: 2
+	Query: "ku 21289" ; Times: 2
+	Query: "KU 20893" ; Times: 2
+	Query: "KU 18001" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "120938" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "12267 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "Noctilio leporinus institutioncode:KU" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "catalognumber:6679 institutioncode:KU" ; Times: 2
+	Query: "93857" ; Times: 1
+	Query: "20262 institutioncode:KU" ; Times: 3
+	Query: "106979" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "KUBI 86119" ; Times: 2
+	Query: "KUBI 86118" ; Times: 2
+	Query: "KU 6094 aves" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "KU 115925" ; Times: 2
+	Query: "KUBI 87821" ; Times: 1
+	Query: "KU 115928" ; Times: 2
+	Query: "KU 115923" ; Times: 3
+	Query: "75267" ; Times: 2
+	Query: "KUBI 1613" ; Times: 3
+	Query: "Pentaceratops" ; Times: 2
+	Query: "KUBI 86287" ; Times: 2
+	Query: "156711" ; Times: 1
+	Query: "16461 institutioncode:KU" ; Times: 2
+	Query: "132136" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "143680" ; Times: 1
+	Query: "157015" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "KUBI 86237" ; Times: 1
+	Query: "vntype:specimen catalognumber:106641 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:7140 institutioncode:KU" ; Times: 3
+	Query: "141379" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "KU 22064" ; Times: 2
+	Query: "113485" ; Times: 1
+	Query: "catalognumber:13600 institutioncode:KU" ; Times: 2
+	Query: "KU 6676" ; Times: 1
+	Query: "catalognumber:89864 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:7139 institutioncode:KU" ; Times: 1
+	Query: "12803 institutioncode:KU" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "121605" ; Times: 1
+	Query: "catalognumber:13602 institutioncode:KU" ; Times: 3
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1106 download events in this period)
+Total number of records downloaded: 5800
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 17
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "Canis latrans institutioncode:KU" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "class:(aves OR Aves) institutioncode:KU" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "class:Aves institutioncode:KU" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+
+
+End of report.
