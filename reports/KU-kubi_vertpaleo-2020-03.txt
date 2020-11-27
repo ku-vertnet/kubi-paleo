@@ -1,0 +1,269 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 374
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 18
+	Country: United States ; Times: 152
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 36
+	Date: 2020-03-31 ; Times: 7
+	Date: 2020-03-18 ; Times: 11
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-23 ; Times: 13
+	Date: 2020-03-15 ; Times: 6
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 19
+	Date: 2020-03-10 ; Times: 5
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-28 ; Times: 25
+	Date: 2020-03-27 ; Times: 20
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-22 ; Times: 11
+	Date: 2020-03-20 ; Times: 14
+	Date: 2020-03-05 ; Times: 10
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-06 ; Times: 14
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "141496" ; Times: 1
+	Query: "catalognumber:64558 institutioncode:KU" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "KU 138444" ; Times: 1
+	Query: "ku 116351" ; Times: 2
+	Query: "82768" ; Times: 1
+	Query: "catalognumber:77279 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:143472 institutioncode:KU" ; Times: 1
+	Query: "genus:Ophiacodon" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "catalognumber:140292 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:96044 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:1201 institutioncode:KU" ; Times: 1
+	Query: "107116" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "98368" ; Times: 2
+	Query: "KU 141579" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "120125" ; Times: 1
+	Query: "Phyllonycteris major" ; Times: 1
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "89347 institutioncode:KU" ; Times: 2
+	Query: "KU 139157" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "catalognumber:8417 institutioncode:KU" ; Times: 1
+	Query: "107114" ; Times: 1
+	Query: "catalognumber:11925 institutioncode:KU" ; Times: 1
+	Query: "ku 120676" ; Times: 2
+	Query: "class:Mammalia catalognumber:143761 institutioncode:KU" ; Times: 3
+	Query: "143946" ; Times: 1
+	Query: "ku 123168" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "KU 144232" ; Times: 2
+	Query: "ku 138412" ; Times: 1
+	Query: "ku 123163" ; Times: 1
+	Query: "ku 123160" ; Times: 1
+	Query: "ku 123161" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "ku 123167" ; Times: 1
+	Query: "ku 123164" ; Times: 1
+	Query: "ku 123165" ; Times: 1
+	Query: "ku 143115" ; Times: 1
+	Query: "ku 143114" ; Times: 1
+	Query: "ku 143117" ; Times: 1
+	Query: "ku 143116" ; Times: 1
+	Query: "ku 143111" ; Times: 1
+	Query: "ku 143110" ; Times: 1
+	Query: "ku 143113" ; Times: 1
+	Query: "ku 143107" ; Times: 4
+	Query: "134928" ; Times: 1
+	Query: "101701" ; Times: 2
+	Query: "ku 139184" ; Times: 1
+	Query: "catalognumber:93963 institutioncode:KU" ; Times: 2
+	Query: "116305" ; Times: 1
+	Query: "120849" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "113681" ; Times: 1
+	Query: "Lasiurus fossilis" ; Times: 2
+	Query: "106816" ; Times: 1
+	Query: "ku 120761" ; Times: 1
+	Query: "catalognumber:24796 institutioncode:KU" ; Times: 4
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "139482" ; Times: 1
+	Query: "139485" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "ku 93506" ; Times: 1
+	Query: "128296" ; Times: 1
+	Query: "catalognumber:140165 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:143913 institutioncode:KU" ; Times: 1
+	Query: "127286" ; Times: 1
+	Query: "128298" ; Times: 1
+	Query: "ku 143109" ; Times: 1
+	Query: "ku 123162" ; Times: 1
+	Query: "ku 143108" ; Times: 1
+	Query: "Archaeopteryx lithographica" ; Times: 1
+	Query: "catalognumber:1425 institutioncode:KU" ; Times: 2
+	Query: "(77094)" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "ku 123166" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "110804" ; Times: 1
+	Query: "Teratornis" ; Times: 2
+	Query: "113603" ; Times: 1
+	Query: "Mormoops blainvillii" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "KU 138412" ; Times: 1
+	Query: "catalognumber:24643 institutioncode:KU" ; Times: 3
+	Query: "(55759)" ; Times: 1
+	Query: "KU 114011" ; Times: 7
+	Query: "83012" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "catalognumber:77282 institutioncode:KU" ; Times: 2
+	Query: "156080" ; Times: 1
+	Query: "KU 139184" ; Times: 1
+	Query: "156088" ; Times: 1
+	Query: "catalognumber:104242 institutioncode:KU" ; Times: 2
+	Query: "123889" ; Times: 1
+	Query: "catalognumber:64322 institutioncode:KU" ; Times: 2
+	Query: "ku 124139" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "catalognumber:101783 institutioncode:KU" ; Times: 2
+	Query: "ku 138444" ; Times: 1
+	Query: "ku 143112" ; Times: 1
+	Query: "catalognumber:66770 institutioncode:KU" ; Times: 1
+	Query: "ku 101538" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "catalognumber:15104 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:1459 institutioncode:KU" ; Times: 1
+	Query: "118930" ; Times: 1
+	Query: "Chadronycteris rabenae" ; Times: 1
+	Query: "ku 101537" ; Times: 1
+	Query: "128339" ; Times: 1
+	Query: "115522" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "ku 142634" ; Times: 1
+	Query: "catalognumber:9895 institutioncode:KU" ; Times: 1
+	Query: "ku 18643" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "113012" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "ku 138616" ; Times: 3
+	Query: "ku 124140" ; Times: 3
+	Query: "catalognumber:13408 institutioncode:KU" ; Times: 1
+	Query: "143571" ; Times: 1
+	Query: "120152" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "vntype:specimen (plethodon) isfossil:1" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "90583" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "Myotis mangamolaris" ; Times: 2
+	Query: "class:Mammalia catalognumber:89169 institutioncode:KU" ; Times: 3
+	Query: "8461 institutioncode:KU" ; Times: 1
+	Query: "111297" ; Times: 1
+	Query: "catalognumber:6651 institutioncode:KU" ; Times: 1
+	Query: "Stenoderma rufum" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "112331" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "143678" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "119493" ; Times: 1
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys country:&#34;United states&#34; institutioncode:KU" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Archaeopteryx lithographica isfossil:1" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "ku 141579" ; Times: 1
+	Query: "catalognumber:96108 institutioncode:KU" ; Times: 2
+	Query: "ku 120763" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "156339" ; Times: 1
+	Query: "Proeutatus" ; Times: 1
+	Query: "ku 139157" ; Times: 1
+	Query: "catalognumber:101736 institutioncode:KU" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "catalognumber:3984 institutioncode:KU" ; Times: 1
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "5294 KU" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "ku 116798" ; Times: 1
+	Query: "ku 129791" ; Times: 4
+	Query: "ku 77016" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "88872" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 853 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "(plethodon) isfossil:1" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+
+
+End of report.
