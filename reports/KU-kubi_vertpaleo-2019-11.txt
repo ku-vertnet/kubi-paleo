@@ -1,0 +1,151 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 112
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 75
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 11
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 4
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-27 ; Times: 5
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-14 ; Times: 6
+	Date: 2019-11-04 ; Times: 7
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-03 ; Times: 4
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 6
+	Date: 2019-11-15 ; Times: 10
+	Date: 2019-11-12 ; Times: 12
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-24 ; Times: 4
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jacksoni genus:notiosorex" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;KANSAS&#34; institutioncode:KU" ; Times: 1
+	Query: "catalognumber:124299 institutioncode:KU" ; Times: 2
+	Query: "canis latrans holotype" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "catalognumber:98269 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "catalognumber:81495 institutioncode:KU" ; Times: 2
+	Query: "Kansas Dasypus" ; Times: 2
+	Query: "KU 13485" ; Times: 1
+	Query: "catalognumber:133863 institutioncode:KU" ; Times: 2
+	Query: "Leon holotype" ; Times: 3
+	Query: "106469" ; Times: 1
+	Query: "catalognumber:144611 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:133865 institutioncode:KU" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "catalognumber:16400 institutioncode:KU" ; Times: 1
+	Query: "KU 103772" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "67280" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "KU 134854" ; Times: 1
+	Query: "KU 134855" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "catalognumber:103772 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:92629 institutioncode:KU" ; Times: 1
+	Query: "120005" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "catalognumber:75184 institutioncode:KU" ; Times: 2
+	Query: "leon holotype" ; Times: 1
+	Query: "KU 7680" ; Times: 2
+	Query: "notiosorex jacksoni" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "KU 113873" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "Anhinga anhinga KU" ; Times: 1
+	Query: "catalognumber:134852 institutioncode:KU" ; Times: 2
+	Query: "KU 115475" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "(139478)" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Andrias" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "catalognumber:14267 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:111526 institutioncode:KU" ; Times: 2
+	Query: "86545" ; Times: 1
+	Query: "catalognumber:143373 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:134435 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:106941 institutioncode:KU" ; Times: 3
+	Query: "109588" ; Times: 1
+	Query: "115820" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "catalognumber:133864 institutioncode:KU" ; Times: 1
+	Query: "KU Dasypus" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "catalognumber:16349 institutioncode:KU" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "catalognumber:114532 institutioncode:KU" ; Times: 3
+	Query: "ku 15465" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1367 download events in this period)
+Total number of records downloaded: 1623
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 5
+	Country: China ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 3
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anolis institutioncode:KU" ; Times: 2
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Andrias" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "class:amphibia institutioncode:KU" ; Times: 1
+
+
+End of report.
