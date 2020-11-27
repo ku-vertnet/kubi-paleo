@@ -1,0 +1,178 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 1277
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 56
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 19
+	Country: Ireland ; Times: 12
+	Country: Switzerland ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-03 ; Times: 5
+	Date: 2020-04-07 ; Times: 7
+	Date: 2020-04-15 ; Times: 9
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-30 ; Times: 21
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-21 ; Times: 6
+	Date: 2020-04-01 ; Times: 6
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-27 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "catalognumber:11092 institutioncode:KU" ; Times: 2
+	Query: "KU 17816" ; Times: 2
+	Query: "KU 11745" ; Times: 2
+	Query: "KU 10975" ; Times: 1
+	Query: "Gila atraria" ; Times: 2
+	Query: "catalognumber:1021 institutioncode:KU" ; Times: 2
+	Query: "90115" ; Times: 1
+	Query: "KU 18130" ; Times: 1
+	Query: "KU 18119" ; Times: 1
+	Query: "burhinus nanus" ; Times: 1
+	Query: "21727 institutioncode:KU" ; Times: 2
+	Query: "22916" ; Times: 1
+	Query: "(49095)" ; Times: 1
+	Query: "catalognumber:69708 institutioncode:KU" ; Times: 1
+	Query: "Palaeogale" ; Times: 1
+	Query: "KU 134854" ; Times: 1
+	Query: "100852" ; Times: 2
+	Query: "albertosaurus" ; Times: 1
+	Query: "84344" ; Times: 1
+	Query: "KU 105897" ; Times: 2
+	Query: "KU 106143" ; Times: 2
+	Query: "140425" ; Times: 1
+	Query: "90476" ; Times: 1
+	Query: "KU 19248" ; Times: 1
+	Query: "KU 140993" ; Times: 2
+	Query: "Homo sapiens" ; Times: 12
+	Query: "catalognumber:5143 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "27634 institutioncode:KU" ; Times: 1
+	Query: "KU 123376" ; Times: 2
+	Query: "30983 institutioncode:KU" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "102423" ; Times: 1
+	Query: "catalognumber:13601 institutioncode:KU" ; Times: 2
+	Query: "KU 18232" ; Times: 1
+	Query: "KU 95416" ; Times: 1
+	Query: "catalognumber:92190 institutioncode:KU" ; Times: 1
+	Query: "institutioncode:KU basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "KU 18103" ; Times: 2
+	Query: "101040" ; Times: 1
+	Query: "catalognumber:5190 institutioncode:KU" ; Times: 1
+	Query: "121600" ; Times: 2
+	Query: "KU 123638" ; Times: 1
+	Query: "catalognumber:13602 institutioncode:KU" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "ku 22621" ; Times: 2
+	Query: "catalognumber:92722 institutioncode:KU" ; Times: 1
+	Query: "15360 institutioncode:KU" ; Times: 2
+	Query: "ku 124140" ; Times: 1
+	Query: "21476 institutioncode:KU" ; Times: 1
+	Query: "KU 18184" ; Times: 1
+	Query: "18147 institutioncode:KU" ; Times: 1
+	Query: "KU 10706" ; Times: 2
+	Query: "KU pulsatrix" ; Times: 1
+	Query: "KU 98916" ; Times: 2
+	Query: "KU 19212" ; Times: 1
+	Query: "KU 106375" ; Times: 2
+	Query: "catalognumber:10772 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:144033 institutioncode:KU" ; Times: 2
+	Query: "KU 19259" ; Times: 1
+	Query: "catalognumber:143728 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1171 download events in this period)
+Total number of records downloaded: 4982
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 29
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 6
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:pseudemys institutioncode:KU" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "specificepithet:redmani genus:Monophyllus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+
+
+End of report.
