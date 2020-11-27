@@ -1,0 +1,229 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 275
+Number of records retrieved in searches: 1379
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 256
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 16
+	Date: 2020-02-05 ; Times: 24
+	Date: 2020-02-02 ; Times: 16
+	Date: 2020-02-03 ; Times: 42
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 34
+	Date: 2020-02-06 ; Times: 13
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 20
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 10
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-18 ; Times: 24
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 35
+	Date: 2020-02-20 ; Times: 9
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 24382" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "ku 107665" ; Times: 2
+	Query: "113004" ; Times: 1
+	Query: "ku 24260" ; Times: 1
+	Query: "23722 institutioncode:KU" ; Times: 1
+	Query: "KU and 5015" ; Times: 1
+	Query: "specificepithet:canadensis genus:Grus institutioncode:KU" ; Times: 1
+	Query: "ku 24308" ; Times: 1
+	Query: "genus:Amphiuma institutioncode:KU" ; Times: 2
+	Query: "catalognumber:75184 institutioncode:KU" ; Times: 1
+	Query: "KU 123584" ; Times: 3
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "KU 30509" ; Times: 1
+	Query: "(dermoptera)" ; Times: 6
+	Query: "KU 25211" ; Times: 1
+	Query: "KU 5083" ; Times: 1
+	Query: "KU 104029" ; Times: 2
+	Query: "87330" ; Times: 1
+	Query: "KU 12740" ; Times: 1
+	Query: "KU 100355" ; Times: 3
+	Query: "ku 24378" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 4
+	Query: "118964" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "catalognumber:138936 institutioncode:KU" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "ku 25857" ; Times: 2
+	Query: "22603 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:123583 institutioncode:KU" ; Times: 1
+	Query: "KU 20567" ; Times: 1
+	Query: "KU 107665" ; Times: 1
+	Query: "KU 22541" ; Times: 1
+	Query: "KU 24344" ; Times: 1
+	Query: "specificepithet:dirus genus:Canis institutioncode:KU" ; Times: 1
+	Query: "ku 104021" ; Times: 1
+	Query: "KU 20686" ; Times: 1
+	Query: "KU 134854" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "KU 24223" ; Times: 1
+	Query: "KU 101226" ; Times: 6
+	Query: "80282" ; Times: 1
+	Query: "22581 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:americana genus:Grus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:90217 institutioncode:KU" ; Times: 1
+	Query: "ku 93506" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "KU 102618" ; Times: 1
+	Query: "vntype:specimen specificepithet:romeri class:amphibia" ; Times: 3
+	Query: "class:Mammalia catalognumber:124092" ; Times: 1
+	Query: "order:dermoptera" ; Times: 2
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "KU 104033" ; Times: 2
+	Query: "KU 104031" ; Times: 2
+	Query: "19404 institutioncode:KU" ; Times: 2
+	Query: "105222" ; Times: 1
+	Query: "KU 24322" ; Times: 1
+	Query: "(104032) institutioncode:KU" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "ku 22541" ; Times: 1
+	Query: "ku 22540" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "catalognumber:107108 institutioncode:KU" ; Times: 1
+	Query: "ku 24437" ; Times: 1
+	Query: "KU 104021" ; Times: 1
+	Query: "KU 104023" ; Times: 2
+	Query: "KU 104027" ; Times: 4
+	Query: "21312 institutioncode:KU" ; Times: 2
+	Query: "ORDER DERMOPTERA" ; Times: 2
+	Query: "24247 institutioncode:KU" ; Times: 1
+	Query: "ku 24223" ; Times: 1
+	Query: "KU 67004" ; Times: 1
+	Query: "KU 143107" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 2
+	Query: "70808" ; Times: 1
+	Query: "KU 24255" ; Times: 1
+	Query: "KU 24318" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "dermoptera" ; Times: 73
+	Query: "KU 7020" ; Times: 1
+	Query: "(127192) institutioncode:KU" ; Times: 1
+	Query: "KU 24382" ; Times: 1
+	Query: "KU 22540" ; Times: 1
+	Query: "KU 13544" ; Times: 1
+	Query: "KU 24260" ; Times: 1
+	Query: "KU 99730" ; Times: 2
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "KU 24308" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "149887" ; Times: 1
+	Query: "catalognumber:138925 institutioncode:KU" ; Times: 1
+	Query: "family:Varanidae institutioncode:KU" ; Times: 1
+	Query: "catalognumber:101961 institutioncode:KU" ; Times: 1
+	Query: "23630 KU" ; Times: 2
+	Query: "KU 30524" ; Times: 1
+	Query: "KU 30525" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Ku 21632" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "19403 institutioncode:KU" ; Times: 2
+	Query: "Dermoptera" ; Times: 46
+	Query: "126112" ; Times: 1
+	Query: "ku 19110" ; Times: 1
+	Query: "ku 24255" ; Times: 2
+	Query: "KU 24378" ; Times: 1
+	Query: "ku 21091" ; Times: 2
+	Query: "ku 24322" ; Times: 1
+	Query: "81138" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1023 download events in this period)
+Total number of records downloaded: 6647
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 82
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-06 ; Times: 15
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-02 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "family:Salamandridae institutioncode:KU" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "dermoptera" ; Times: 29
+	Query: "genus:Geomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
