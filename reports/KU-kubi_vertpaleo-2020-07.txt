@@ -1,0 +1,202 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 203
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ireland ; Times: 61
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 14
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-21 ; Times: 11
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-11 ; Times: 14
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-07 ; Times: 40
+	Date: 2020-07-06 ; Times: 23
+	Date: 2020-07-19 ; Times: 8
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-02 ; Times: 9
+	Date: 2020-07-15 ; Times: 10
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "102105" ; Times: 1
+	Query: "KU 17746" ; Times: 2
+	Query: "KU 18039" ; Times: 2
+	Query: "101647" ; Times: 2
+	Query: "ku 12395" ; Times: 1
+	Query: "23690 KU" ; Times: 1
+	Query: "KU 12633" ; Times: 2
+	Query: "KU 12634" ; Times: 2
+	Query: "KU 32425" ; Times: 2
+	Query: "KU 134423" ; Times: 2
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "101273" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "catalognumber:7478 institutioncode:KU" ; Times: 1
+	Query: "KU 7868" ; Times: 2
+	Query: "KU 12806" ; Times: 2
+	Query: "81530" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "catalognumber:7635 institutioncode:KU" ; Times: 2
+	Query: "KU 134450" ; Times: 2
+	Query: "KU 4996" ; Times: 2
+	Query: "KU 32481" ; Times: 2
+	Query: "ku 19966" ; Times: 1
+	Query: "KU 134210" ; Times: 2
+	Query: "KU 134057" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "KU 23851" ; Times: 1
+	Query: "ku 15931" ; Times: 1
+	Query: "KU 19907" ; Times: 2
+	Query: "KU 19664" ; Times: 2
+	Query: "KU 12319" ; Times: 2
+	Query: "catalognumber:100899 institutioncode:KU" ; Times: 1
+	Query: "ku 14015" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "23631 KU" ; Times: 2
+	Query: "56042" ; Times: 1
+	Query: "KU 17707" ; Times: 2
+	Query: "134064?" ; Times: 1
+	Query: "KU 134104" ; Times: 2
+	Query: "KU 15377" ; Times: 2
+	Query: "104302" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "KU 10313" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "KU 8646" ; Times: 1
+	Query: "KU 23326" ; Times: 2
+	Query: "KU 134356" ; Times: 2
+	Query: "Xenicus" ; Times: 1
+	Query: "KU 23320" ; Times: 2
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "KU 15678" ; Times: 2
+	Query: "family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "KU 14052" ; Times: 2
+	Query: "85227" ; Times: 1
+	Query: "KU 8495" ; Times: 2
+	Query: "catalognumber:67281 institutioncode:KU" ; Times: 2
+	Query: "KU 11263" ; Times: 1
+	Query: "KU 23339" ; Times: 2
+	Query: "KU 21629" ; Times: 2
+	Query: "catalognumber:3230 institutioncode:KU" ; Times: 1
+	Query: "KU 135175" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "genus:Conepatus institutioncode:KU" ; Times: 4
+	Query: "KU 23345" ; Times: 2
+	Query: "KU 24437" ; Times: 1
+	Query: "KU 18181" ; Times: 2
+	Query: "101352" ; Times: 2
+	Query: "catalognumber:7111 institutioncode:KU" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "KU 15756" ; Times: 2
+	Query: "KU 134094" ; Times: 2
+	Query: "ku 17751" ; Times: 1
+	Query: "KU 12317" ; Times: 2
+	Query: "94277" ; Times: 1
+	Query: "catalognumber:95416 institutioncode:KU" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "KU 15507" ; Times: 2
+	Query: "1366 institutioncode:KU" ; Times: 1
+	Query: "101467" ; Times: 1
+	Query: "catalognumber:1310 institutioncode:KU" ; Times: 1
+	Query: "KU 2075" ; Times: 1
+	Query: "23630 KU" ; Times: 2
+	Query: "catalognumber:68078 institutioncode:KU" ; Times: 2
+	Query: "KU 14223" ; Times: 2
+	Query: "KU 14222" ; Times: 2
+	Query: "KU 4092" ; Times: 2
+	Query: "KU 95164" ; Times: 2
+	Query: "KU 23325" ; Times: 2
+	Query: "101571" ; Times: 1
+	Query: "87481" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 940 download events in this period)
+Total number of records downloaded: 410
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus institutioncode:KU" ; Times: 1
+	Query: "genus:Notiosorex isfossil:1" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "genus:Conepatus institutioncode:KU" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+
+
+End of report.
