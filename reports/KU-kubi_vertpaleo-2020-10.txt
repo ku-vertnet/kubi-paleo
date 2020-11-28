@@ -1,0 +1,144 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 701
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 31
+	Country: Uruguay ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: China ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 9
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 4
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-12 ; Times: 7
+	Date: 2020-10-13 ; Times: 9
+	Date: 2020-10-29 ; Times: 5
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:insignis family:Rallidae" ; Times: 1
+	Query: "catalognumber:9948 institutioncode:KU" ; Times: 1
+	Query: "99233" ; Times: 2
+	Query: "KU 24450" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "100552" ; Times: 1
+	Query: "order:Xenarthra institutioncode:KU" ; Times: 2
+	Query: "43096" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "142864" ; Times: 2
+	Query: "catalognumber:65019 institutioncode:KU" ; Times: 1
+	Query: "KU 19419" ; Times: 2
+	Query: "KU 116353" ; Times: 2
+	Query: "KU 12803" ; Times: 2
+	Query: "KU 10088" ; Times: 1
+	Query: "KU 13784" ; Times: 1
+	Query: "ku 23218" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "100590" ; Times: 2
+	Query: "Homo sapiens" ; Times: 6
+	Query: "127701" ; Times: 1
+	Query: "KU 23218" ; Times: 1
+	Query: "137702" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "catalognumber:15527 institutioncode:KU" ; Times: 1
+	Query: "107717" ; Times: 1
+	Query: "vntype:specimen catalognumber:9948 institutioncode:KU" ; Times: 1
+	Query: "coelacanthus" ; Times: 1
+	Query: "catalognumber:5818 institutioncode:KU" ; Times: 3
+	Query: "KU 19428" ; Times: 1
+	Query: "KU 23522" ; Times: 2
+	Query: "139736" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "KU 124532" ; Times: 1
+	Query: "KU 23308" ; Times: 1
+	Query: "KU 136589" ; Times: 1
+	Query: "catalognumber:93212 institutioncode:KU" ; Times: 1
+	Query: "KU 93576" ; Times: 1
+	Query: "KU 132546" ; Times: 1
+	Query: "catalognumber:92319 institutioncode:KU" ; Times: 1
+	Query: "107711" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1521 download events in this period)
+Total number of records downloaded: 3149
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Ethiopia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-31 ; Times: 5
+	Date: 2020-10-14 ; Times: 9
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "family:elephantidae" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "canis fossil" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "family:Heteromyidae isfossil:1" ; Times: 1
+	Query: "ameiva exsul" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
