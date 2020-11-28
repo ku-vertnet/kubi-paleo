@@ -1,0 +1,101 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 1588
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 45
+	Country: Mexico ; Times: 12
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 19
+	Country: Ireland ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-04 ; Times: 26
+	Date: 2020-06-16 ; Times: 3
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-10 ; Times: 13
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "21019 KU" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "24411 KU" ; Times: 2
+	Query: "121594 KU" ; Times: 2
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "family:Ctenomyidae isfossil:1" ; Times: 1
+	Query: "KU 25190" ; Times: 1
+	Query: "16440 KU" ; Times: 1
+	Query: "12108 KU" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "23676 KU" ; Times: 1
+	Query: "19410 KU" ; Times: 2
+	Query: "9610 KU" ; Times: 1
+	Query: "ku 120763" ; Times: 2
+	Query: "Homo sapiens" ; Times: 18
+	Query: "ku 143107" ; Times: 2
+	Query: "10752 KU" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "KU 125924" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "catalognumber:1310 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "4736 KU Aves" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "KU-14876" ; Times: 1
+	Query: "5615 KU" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "12751 KU" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "ku 123160" ; Times: 2
+	Query: "Dimetrodon limbatus" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "specificepithet:caballus genus:Equus institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
