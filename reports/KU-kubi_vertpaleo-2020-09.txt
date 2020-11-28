@@ -1,0 +1,151 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 19
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-11 ; Times: 9
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-19 ; Times: 2
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "126183" ; Times: 1
+	Query: "93142" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Phorusrhacidae" ; Times: 2
+	Query: "titanoides" ; Times: 1
+	Query: "95835" ; Times: 1
+	Query: "KU 5133" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "142864" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "KU 10347" ; Times: 2
+	Query: "65175" ; Times: 1
+	Query: "boker" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "böker" ; Times: 2
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "catalognumber:4970 institutioncode:KU" ; Times: 1
+	Query: "KU 11263" ; Times: 1
+	Query: "KU 5280" ; Times: 1
+	Query: "NHM 14102" ; Times: 1
+	Query: "ku aves 9640" ; Times: 1
+	Query: "odocoileus sp." ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "KU 4970" ; Times: 1
+	Query: "134990" ; Times: 1
+	Query: "99661" ; Times: 1
+	Query: "KU 10313" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "KU 5281 aves" ; Times: 1
+	Query: "KU 104324" ; Times: 2
+	Query: "ku 24318" ; Times: 1
+	Query: "KU 18147" ; Times: 1
+	Query: "catalognumber:9885 institutioncode:KU" ; Times: 1
+	Query: "139095" ; Times: 1
+	Query: "KU 13537" ; Times: 1
+	Query: "KU 5588" ; Times: 1
+	Query: "KU 8904 aves" ; Times: 1
+	Query: "KU 101562" ; Times: 2
+	Query: "pinguis institutioncode:KU" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "112340" ; Times: 1
+	Query: "KU 7571" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 976 download events in this period)
+Total number of records downloaded: 2198
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 17
+	Country: Uganda ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "genus:zapus institutioncode:KU" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
