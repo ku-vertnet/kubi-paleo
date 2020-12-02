@@ -1,0 +1,195 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 1895
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 6
+	Country: United States ; Times: 90
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 8
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-22 ; Times: 3
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-18 ; Times: 5
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-06 ; Times: 5
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-02 ; Times: 12
+	Date: 2020-11-03 ; Times: 7
+	Date: 2020-11-13 ; Times: 4
+	Date: 2020-11-10 ; Times: 46
+	Date: 2020-11-26 ; Times: 4
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-24 ; Times: 4
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Chrysemys picta Nebraska" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus" ; Times: 2
+	Query: "106376" ; Times: 1
+	Query: "scientificname:Lepus americanus" ; Times: 4
+	Query: "catalognumber:90142 institutioncode:KU" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "KU 98129" ; Times: 1
+	Query: "scientificname:Sorex palustris" ; Times: 1
+	Query: "catalognumber:94206" ; Times: 1
+	Query: "catalognumber:137605" ; Times: 1
+	Query: "122413" ; Times: 1
+	Query: "KU 110759" ; Times: 1
+	Query: "catalognumber:114641" ; Times: 1
+	Query: "catalognumber:114642" ; Times: 2
+	Query: "catalognumber:114643" ; Times: 2
+	Query: "catalognumber:114639" ; Times: 1
+	Query: "KU 130343" ; Times: 1
+	Query: "scientificname:Mustela erminea" ; Times: 2
+	Query: "scientificname:Mephitis mephitis" ; Times: 2
+	Query: "Eryops Megacephalus" ; Times: 4
+	Query: "ku 4996" ; Times: 1
+	Query: "scientificname:Sus scrofa" ; Times: 2
+	Query: "KU 110749" ; Times: 1
+	Query: "scientificname:Puma concolor" ; Times: 2
+	Query: "KU 92740" ; Times: 1
+	Query: "110051" ; Times: 1
+	Query: "110052" ; Times: 2
+	Query: "KU 93112" ; Times: 1
+	Query: "KU 10329" ; Times: 1
+	Query: "leptolepides" ; Times: 1
+	Query: "Homo sapiens" ; Times: 7
+	Query: "KU 12320" ; Times: 1
+	Query: "ku 114260" ; Times: 1
+	Query: "catalognumber:581 institutioncode:KU" ; Times: 1
+	Query: "14872 ku" ; Times: 1
+	Query: "scientificname:Synaptomys borealis" ; Times: 2
+	Query: "scientificname:Marmota monax" ; Times: 2
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 2
+	Query: "family:Cervidae stateprovince:&#34;kansas&#34;" ; Times: 7
+	Query: "family:Trionychidae stateprovince:&#34;Kansas&#34; isfossil:1" ; Times: 1
+	Query: "83586" ; Times: 1
+	Query: "113593" ; Times: 1
+	Query: "scientificname:Cervus elaphus" ; Times: 4
+	Query: "60802" ; Times: 1
+	Query: "scientificname:Castor Canadensis" ; Times: 4
+	Query: "scientificname:Bison bison" ; Times: 6
+	Query: "118270" ; Times: 1
+	Query: "KU 116751" ; Times: 1
+	Query: "KU 116750" ; Times: 1
+	Query: "KU 116753" ; Times: 1
+	Query: "KU 116752" ; Times: 1
+	Query: "scientificname:Ursus americanus" ; Times: 2
+	Query: "catalognumber:75309 institutioncode:KU" ; Times: 1
+	Query: "scientificname:Lepus californicus" ; Times: 4
+	Query: "catalognumber:119504 isfossil:1" ; Times: 2
+	Query: "catalognumber:92816 institutioncode:KU" ; Times: 2
+	Query: "119504" ; Times: 1
+	Query: "catalognumber:120028 isfossil:1" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "scientificname:Sorex hoyi" ; Times: 1
+	Query: "catalognumber:90097 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:119564 isfossil:1" ; Times: 2
+	Query: "numenius borealis" ; Times: 1
+	Query: "scientificname:Neotoma magister" ; Times: 2
+	Query: "KU 17706" ; Times: 1
+	Query: "KU 143229" ; Times: 2
+	Query: "scientificname:Zapus hudsonius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 842 download events in this period)
+Total number of records downloaded: 2694
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 3
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-06 ; Times: 4
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 10
+	Date: 2020-11-05 ; Times: 7
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-03 ; Times: 5
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-12 ; Times: 3
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "podocnemis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "vntype:specimen specificepithet:tridecemlineatus genus:Spermophilus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "myodes gapperi" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucopus genus:Peromyscus hastypestatus:1" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
