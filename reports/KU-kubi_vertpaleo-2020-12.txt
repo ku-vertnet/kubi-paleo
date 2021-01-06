@@ -1,0 +1,155 @@
+Report for Institution Code KU, Resource kubi_vertpaleo
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 218
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 77
+	Country: United Kingdom ; Times: 2
+	Country: France ; Times: 16
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 11
+	Date: 2020-12-27 ; Times: 3
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-29 ; Times: 7
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 8
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-01 ; Times: 9
+	Date: 2020-12-08 ; Times: 16
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 7
+	Date: 2020-12-15 ; Times: 6
+	Date: 2020-12-16 ; Times: 5
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "150068" ; Times: 1
+	Query: "KU 89520" ; Times: 1
+	Query: "catalognumber:110151" ; Times: 1
+	Query: "149996" ; Times: 1
+	Query: "scientificname:Belone belone" ; Times: 1
+	Query: "KU 19966" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 2
+	Query: "14651 KU" ; Times: 3
+	Query: "ku 18147" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "scientificname:Carcharias taurus" ; Times: 1
+	Query: "100576" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "119689" ; Times: 2
+	Query: "KU 12395" ; Times: 1
+	Query: "ku 25518" ; Times: 2
+	Query: "KU 4900" ; Times: 1
+	Query: "catalognumber:21829 institutioncode:KU" ; Times: 2
+	Query: "149503" ; Times: 1
+	Query: "87609" ; Times: 1
+	Query: "catalognumber:4970 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "113295" ; Times: 1
+	Query: "110151" ; Times: 3
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "108489" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "KU 11304" ; Times: 1
+	Query: "121309" ; Times: 1
+	Query: "catalognumber:90809 institutioncode:KU" ; Times: 2
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "(18482) institutioncode:KU" ; Times: 1
+	Query: "114232" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "121223" ; Times: 1
+	Query: "KU 110151" ; Times: 1
+	Query: "126023" ; Times: 4
+	Query: "118252" ; Times: 1
+	Query: "ku 30983" ; Times: 3
+	Query: "89347 institutioncode:KU" ; Times: 2
+	Query: "KU 14651" ; Times: 1
+	Query: "149661" ; Times: 1
+	Query: "110052" ; Times: 1
+	Query: "KU 116077" ; Times: 1
+	Query: "149465" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 1
+	Query: "135395" ; Times: 1
+	Query: "KU 12751" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "135396" ; Times: 1
+	Query: "113294" ; Times: 3
+	Query: "11296" ; Times: 1
+	Query: "113296" ; Times: 1
+	Query: "126020" ; Times: 3
+	Query: "catalognumber:9014 institutioncode:KU" ; Times: 1
+	Query: "ku 64964" ; Times: 1
+	Query: "149502" ; Times: 1
+	Query: "KU 66938" ; Times: 2
+	Query: "106323" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "genus:erethizon isfossil:1" ; Times: 1
+	Query: "(18382) institutioncode:KU" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "127628" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "catalognumber:90103" ; Times: 1
+	Query: "117901" ; Times: 1
+	Query: "catalognumber:21828 institutioncode:KU" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 705 download events in this period)
+Total number of records downloaded: 1700
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+
+
+End of report.
